@@ -1,0 +1,207 @@
+
+[
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "INORGANIC CHEMISTRY 1",
+    "code": "CHM 250.1",
+    "session": "Test",
+    "topics": ["s-Block Chemistry", "Allotropes of Carbon", "Nitrogen Chemistry", "Group 13 Elements", "Industrial Chemistry", "Quantum Mechanics", "Laws of Chemical Combination", "Atomic Structure", "Quantum Theory", "Electronic Configuration"],
+    "time": "2HRS"
+  },
+  {
+    "type": "Instruction",
+    "content": "CHM 250 CONTINUOUS ASSESSMENT"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "s-Block Chemistry"
+    ],
+    "Question": {
+      "content": "$$ Li + N_2 \\rightarrow $$ __________",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Li3N (Lithium Nitride)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Lithium is the only Group 1 metal that reacts directly with Nitrogen gas at room temperature (or upon heating) to form a nitride.<br>Balanced equation: $$ 6Li + N_2 \\rightarrow 2Li_3N $$</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> $$ Li_3N $$</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Allotropes of Carbon"
+    ],
+    "Question": {
+      "content": "__________ and __________ are the crystalline forms of carbon.",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Diamond and Graphite"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Carbon exists in amorphous forms (charcoal, soot) and crystalline allotropes. The two primary natural crystalline forms are Diamond (tetrahedral lattice) and Graphite (hexagonal sheets). Fullerenes are also crystalline but 'Diamond and Graphite' is the standard answer for basic forms.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Diamond and Graphite</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Nitrogen Chemistry"
+    ],
+    "Question": {
+      "content": "Nitrogen is unreactive because __________",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Of the strong triple bond between nitrogen atoms"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>The dinitrogen molecule ($$ N_2 $$) is held together by a very strong triple bond ($$ N \\equiv N $$) with a high bond dissociation energy ($$ 945 \\text{ kJ/mol} $$), making it kinetically inert under standard conditions.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> High bond dissociation energy of the triple bond</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Group 13 Elements"
+    ],
+    "Question": {
+      "content": "The fact that Tl (I) compounds are more common and stable that Tl (III) compound is due to __________",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The Inert Pair Effect"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>The <strong>Inert Pair Effect</strong> refers to the reluctance of the s-electrons in the outermost shell to participate in bonding. This effect becomes more pronounced down the group, making the +1 oxidation state more stable than +3 for Thallium (Tl).</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> The Inert Pair Effect</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Industrial Chemistry"
+    ],
+    "Question": {
+      "content": "Producer gas is a mixture of __________ and __________",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Carbon monoxide (CO) and Nitrogen (N2)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Producer gas is a fuel gas manufactured by passing air over red-hot coke. It consists mainly of Carbon Monoxide ($$ CO $$) and Nitrogen ($$ N_2 $$), unlike Water Gas which is $$ CO + H_2 $$.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Carbon monoxide and Nitrogen</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Quantum Mechanics"
+    ],
+    "Question": {
+      "content": "What is the velocity of an electron that has a de Broglie wavelength of 100nm? (Electron mass = $$ 9.11 \\times 10^{-31}kg $$; $$ h = 6.626 \\times 10^{-34}kgm^2/s $$; $$ 1nm=10^{-9}m $$)",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "7.27 x 10^3 m/s"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Step-by-Step Calculation</h4><p><strong>Formula:</strong> $$ v = \\frac{h}{m\\lambda} $$</p><p><strong>Given:</strong><br>$$ h = 6.626 \\times 10^{-34} $$<br>$$ m = 9.11 \\times 10^{-31} $$<br>$$ \\lambda = 100 \\text{ nm} = 100 \\times 10^{-9} \\text{ m} = 1 \\times 10^{-7} \\text{ m} $$</p><p><strong>Calculation:</strong><br>$$ v = \\frac{6.626 \\times 10^{-34}}{(9.11 \\times 10^{-31}) \\times (10^{-7})} $$<br>$$ v = \\frac{6.626 \\times 10^{-34}}{9.11 \\times 10^{-38}} $$<br>$$ v \\approx 0.727 \\times 10^4 \\text{ m/s} $$<br>$$ v = 7273 \\text{ m/s} $$</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> $$ 7.27 \\times 10^3 \\text{ m/s} $$</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Laws of Chemical Combination"
+    ],
+    "Question": {
+      "content": "If element A and B react to form two compounds, the different masses of B that combine with a fixed mass of A can be expressed as a ratio of small whole numbers. This is called __________",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Law of Multiple Proportions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>This is the definition of the <strong>Law of Multiple Proportions</strong>, formulated by John Dalton. It describes stoichiometry when two elements form more than one compound (e.g., $$ CO $$ and $$ CO_2 $$).</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Law of Multiple Proportions</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Atomic Structure"
+    ],
+    "Question": {
+      "content": "In 1897, __________ used magnetic and electric fields to measure the ratio of the cathode ray particle mass to its charge.",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "J.J. Thomson"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>J.J. Thomson performed cathode ray tube experiments to determine the charge-to-mass ratio ($$ e/m $$) of the electron, leading to the discovery of the electron as a fundamental particle.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> J.J. Thomson</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Quantum Theory"
+    ],
+    "Question": {
+      "content": "According to Planck's quantum theory, energy is not __________ but is __________",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Continuous; Quantized"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Planck proposed that energy is not emitted or absorbed continuously (like a wave) but in discrete packets or 'quanta' (particle-like). This challenged classical physics.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Continuous; Quantized (or emitted in discrete packets)</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Electronic Configuration"
+    ],
+    "Question": {
+      "content": "The electronic configuration of which element is: $$ 1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^6 $$?",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Iron (Fe)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Step-by-Step Calculation</h4><p><strong>Count Electrons:</strong><br>$$ 2 (1s) + 2 (2s) + 6 (2p) + 2 (3s) + 6 (3p) + 2 (4s) + 6 (3d) = 26 $$ electrons.<br><strong>Identify Element:</strong><br>The element with Atomic Number 26 is Iron ($$ Fe $$).</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Iron (Fe)</div></div>"
+    }
+  }
+]
+
