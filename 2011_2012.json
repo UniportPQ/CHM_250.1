@@ -1,0 +1,505 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "INORGANIC CHEMISTRY 1",
+    "code": "CHM 250.1",
+    "session": "2011/2012 SESSION",
+    "topics": [
+      "Group II Elements",
+      "Chemical Bonding",
+      "Thermodynamics",
+      "p-Block Elements",
+      "Noble Gases"
+    ],
+    "time": "2HRS"
+  },
+  {
+    "type": "Instruction",
+    "content": "SECTION A: Fill in the blanks with the most appropriate answers."
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Group II Elements"
+    ],
+    "Question": {
+      "content": "Arrange the following in increasing order of solubility: \\( BaCO_3, SrCO_3, CaCO_3, MgCO_3, BeCO_3 \\).",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "BaCO3 < SrCO3 < CaCO3 < MgCO3 < BeCO3"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>For Group II carbonates, solubility increases up the group. This is because the lattice energy decreases more slowly than the hydration energy of the cations as the ionic radius increases down the group.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> BaCO3 < SrCO3 < CaCO3 < MgCO3 < BeCO3</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Atomic Structure"
+    ],
+    "Question": {
+      "content": "The ionic radius of \\( Na^+ \\) is __________.",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.95 Å (or 102 pm)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>The ionic radius of Sodium (Na+) is smaller than its atomic radius due to the loss of its outermost electron shell and increased effective nuclear charge.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> 0.95 Å</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Thermodynamics"
+    ],
+    "Question": {
+      "content": "CsI with the total hydration energy \\( -569 \\text{ kJmol}^{-1} \\) and lattice energy \\( -601 \\text{ kJmol}^{-1} \\) will be __________.",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Insoluble (or endothermic/sparingly soluble)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Enthalpy of solution is calculated as: $$ \\Delta H_{sol} = \\Delta H_{hyd} - \\Delta H_{lattice} $$. Here, \\( -569 - (-601) = +32 \\text{ kJ/mol} \\). Since the process is endothermic and the lattice energy is higher than the hydration energy, the substance is likely insoluble or has low solubility.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Insoluble</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Group II Elements"
+    ],
+    "Question": {
+      "content": "__________ in group II does not readily react with water because of its protective oxide layer.",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Beryllium (Be)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Beryllium forms a tough, thin oxide film (BeO) on its surface which protects the underlying metal from further attack by water or air.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Beryllium</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Periodic Trends"
+    ],
+    "Question": {
+      "content": "Diagonal relationship is caused by similarity in __________.",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ionic size and charge density (polarizing power)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Diagonal relationships occur between elements in the second and third periods (e.g., Li-Mg, Be-Al). This is due to the similar charge-to-size ratio (ionic potential).</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Ionic size and charge density</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Boron Chemistry"
+    ],
+    "Question": {
+      "content": "\\( 2B + 3Mg \\rightarrow Mg_3B_2 \\) shows the __________ character of Boron.",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Non-metallic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Boron reacts with metals like Magnesium to form borides, where Boron acts as an oxidizing agent, demonstrating its non-metallic nature.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Non-metallic</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Boron Chemistry"
+    ],
+    "Question": {
+      "content": "Decaborane-14 is __________ borane.",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nido"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Decaborane-14 (\\( B_{10}H_{14} \\)) belongs to the 'nido' class of boranes because it follows the general formula \\( B_nH_{n+4} \\).</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Nido</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Group IV Elements"
+    ],
+    "Question": {
+      "content": "The difference in behavior between alkane and silane is probably due to __________.",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Difference in electronegativity and availability of d-orbitals in Silicon"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Silicon has empty low-lying d-orbitals and a lower electronegativity compared to Carbon, making silanes more reactive and prone to nucleophilic attack.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Electronegativity and d-orbitals</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Chemical Bonding"
+    ],
+    "Question": {
+      "content": "The exceptionally high melting point of \\( SiO_2 \\) (silica) is attributed to its __________.",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Giant covalent network structure"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Silica consists of a 3D network of Si-O covalent bonds. Breaking these strong bonds throughout the structure requires a massive amount of energy.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Giant covalent network structure</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Molecular Geometry"
+    ],
+    "Question": {
+      "content": "The structure of ammonia is __________.",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Trigonal pyramidal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Ammonia (\\( NH_3 \\)) has three bonding pairs and one lone pair on the Nitrogen atom. According to VSEPR theory, this results in a trigonal pyramidal shape.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Trigonal pyramidal</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "p-Block Elements"
+    ],
+    "Question": {
+      "content": "Heating white phosphorus under high pressure results in __________.",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Black phosphorus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>White phosphorus converts to black phosphorus when heated under high pressure (approx. 12,000 atm). Black phosphorus is the most thermodynamically stable allotrope.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Black phosphorus</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Chemical Bonding"
+    ],
+    "Question": {
+      "content": "Water has an abnormally low volatility because of __________.",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Extensive intermolecular hydrogen bonding"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Strong hydrogen bonds between water molecules require significant energy to overcome, leading to high boiling points and low volatility compared to other group 16 hydrides.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Hydrogen bonding</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "Noble Gases"
+    ],
+    "Question": {
+      "content": "__________ is the most abundant and cheapest noble gas.",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Argon (Ar)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Argon makes up about 0.93% of the Earth's atmosphere by volume, making it the most available noble gas for industrial use.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Argon</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "Molecular Geometry"
+    ],
+    "Question": {
+      "content": "\\( SO_3 \\) gas has a __________ structure.",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Trigonal planar"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Sulfur trioxide has three regions of electron density (three double bonds) and no lone pairs on the central Sulfur atom, leading to a trigonal planar geometry.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Trigonal planar</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Halogens"
+    ],
+    "Question": {
+      "content": "Fluorine is highly reactive because __________.",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Low F-F bond dissociation energy and high electronegativity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>The F-F bond is weak due to the repulsion between lone pairs on the small Fluorine atoms. This, combined with Fluorine's high electronegativity, makes it the most reactive element.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Low bond dissociation energy and high electronegativity</div></div>"
+    }
+  },
+  {
+  "type": "heading",
+  "heading": "Section B"
+},
+  
+  {
+    "type": "Instruction",
+    "content": "SECTION B: Answer the following questions."
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": [
+      "Atomic Theory"
+    ],
+    "Question": {
+      "content": "In 1808, John Dalton published his model of the atom to account for two important chemical observations. What are these observations?",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The Law of Conservation of Mass and The Law of Definite Proportions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Dalton's atomic theory provided a physical explanation for two major laws known at the time: <br>1. <strong>The Law of Conservation of Mass</strong> (Lavoisier): Matter is not created or destroyed in chemical reactions.<br>2. <strong>The Law of Definite Proportions</strong> (Proust): A chemical compound always contains exactly the same proportion of elements by mass.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Law of Conservation of Mass and Law of Definite Proportions</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": [
+      "Atomic Theory"
+    ],
+    "Question": {
+      "content": "All matter consists of atoms, tiny, indivisible particles of an element that cannot be created or destroyed. This is a statement of __________",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dalton's Atomic Theory"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>This statement is the fundamental postulate of the atomic theory proposed by John Dalton in 1808. While modern science knows atoms are divisible (into protons, neutrons, electrons), this definition is specific to Dalton's original postulate.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Dalton's Atomic Theory</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": [
+      "Atomic Structure"
+    ],
+    "Question": {
+      "content": "In 1809, the American Physicist, Robert Millikan discovered __________",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The charge of an electron"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Through his famous oil-drop experiment (actually conducted starting in 1909, though the question text says 1809), Robert Millikan determined the elementary charge ($$ e $$) of an electron to be approximately $$ 1.602 \\times 10^{-19} $$ Coulombs.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> The elementary charge of an electron</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "Electromagnetic Radiation"
+    ],
+    "Question": {
+      "content": "The wave properties of an electromagnetic radiations are described by two independent variables namely __________ and __________",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Wavelength and Frequency"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Electromagnetic waves are primarily characterized by their Wavelength ($$ \\lambda $$) and Frequency ($$ \\nu $$). These are related by the speed of light: $$ c = \\lambda \\nu $$.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Wavelength and Frequency</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "Quantum Mechanics"
+    ],
+    "Question": {
+      "content": "In 1923, the French Physicist, Louis de Broglie stated that a particle momentum is inversely proportional to its wavelength, indicating that __________",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Matter has wave-like properties (Wave-Particle Duality)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>De Broglie proposed that if waves can behave like particles (photons), then particles (like electrons) can behave like waves. This concept is known as <strong>Wave-Particle Duality</strong>.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Matter exhibits wave-like behavior</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": [
+      "Quantum Mechanics"
+    ],
+    "Question": {
+      "content": "Calculate the de Broglie wavelength of an electron with a velocity of \\( 1.00 \\times 10^6 \\text{m/s} \\) (Electron mass = \\( 9.11 \\times 10^{-31} \\text{kg} \\); \\( h = 6.626 \\times 10^{-34} \\text{kgm}^2\\text{/s} \\))",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "7.27 x 10^-10 m"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Step-by-Step Calculation</h4><p><strong>Formula:</strong> $$ \\lambda = \\frac{h}{mv} $$</p><p><strong>Substitution:</strong><br>$$ \\lambda = \\frac{6.626 \\times 10^{-34}}{(9.11 \\times 10^{-31}) \\times (1.00 \\times 10^6)} $$</p><p><strong>Calculation:</strong><br>$$ \\lambda = \\frac{6.626 \\times 10^{-34}}{9.11 \\times 10^{-25}} $$<br>$$ \\lambda \\approx 0.727 \\times 10^{-9} \\text{ m} $$<br>$$ \\lambda = 7.27 \\times 10^{-10} \\text{ m} $$</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> $$ 7.27 \\times 10^{-10} \\text{ m} $$ (or 0.727 nm)</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": [
+      "Photoelectric Effect"
+    ],
+    "Question": {
+      "content": "Albert Einstein, in 1905, presented his photon theory to explain __________",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The Photoelectric Effect"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Einstein explained the Photoelectric Effect by proposing that light consists of discrete packets of energy called photons (quanta), where energy $$ E = h\\nu $$. This explanation earned him the Nobel Prize.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> The Photoelectric Effect</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": [
+      "Quantum Numbers"
+    ],
+    "Question": {
+      "content": "An atomic orbital is specified by three quantum numbers that are associated respectively with the orbital's size, shape and orientation in space. The quantum numbers are __________",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Principal (n), Azimuthal (l), and Magnetic (ml) quantum numbers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>1. <strong>Principal ($$ n $$):</strong> Describes the size and energy level.<br>2. <strong>Azimuthal ($$ l $$):</strong> Describes the shape of the orbital (s, p, d, f).<br>3. <strong>Magnetic ($$ m_l $$):</strong> Describes the orientation of the orbital in space.<br>(Note: The 4th quantum number, spin ($$ m_s $$), describes the electron, not the orbital.)</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Principal, Azimuthal, and Magnetic quantum numbers</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": [
+      "Quantum Numbers",
+      "Electronic Configuration"
+    ],
+    "Question": {
+      "content": "Give the above three quantum numbers of the last electron in zinc, Zn.",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "n = 3, l = 2, ml = -2, -1, 0, +1, or +2"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Zinc (Atomic number 30) has the electronic configuration: $$ [Ar] 4s^2 3d^{10} $$. According to the Aufbau principle, the last electrons are added to the 3d subshell.<br>1. <strong>Principal quantum number (n):</strong> 3 (since it's a 3d orbital).<br>2. <strong>Azimuthal quantum number (l):</strong> 2 (corresponds to d-orbital).<br>3. <strong>Magnetic quantum number ($$ m_l $$):</strong> Can be any integer from -2 to +2.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> n=3, l=2, m (any from -2 to +2)</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": [
+      "Periodic Trends"
+    ],
+    "Question": {
+      "content": "Arrange the following atoms in order of increasing atomic size: Li, Na, B, Ne, Be.",
+      "type": "theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ne < B < Be < Li < Na"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Atomic size generally decreases across a period (left to right) due to increasing effective nuclear charge and increases down a group due to additional electron shells.<br><strong>Period 2 trend (decreasing size):</strong> Li > Be > B > Ne<br><strong>Group 1 trend (increasing size):</strong> Li < Na<br>Combining these, Sodium (Period 3) is the largest, and Neon (Period 2 noble gas) is the smallest.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Ne < B < Be < Li < Na</div></div>"
+    }
+}]

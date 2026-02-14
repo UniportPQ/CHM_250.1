@@ -1,0 +1,788 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "INORGANIC CHEMISTRY",
+    "code": "CHM 250.1",
+    "session": "2009/2010",
+    "topics": ["Atomic Structure", "Nuclear Chemistry", "Quantum Mechanics", "Periodicity", "Chemical Bonding", "Coordination Chemistry", "Transition Metals", "Acids and Bases"],
+    "time": "1HR 30 MINS"
+  },
+  {
+    "type": "Instruction",
+    "content": "SECTION A: Answer all questions. Supply the answer to each question in the space provided."
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Atomic Structure"
+    ],
+    "Question": {
+      "content": "Lavoisier first stated this law on the basis of his combustion experiments, in which he found the mass of oxygen plus the mass of mercury equal to the mass of mercuric oxide. Name this law:",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Law of Conservation of Mass"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>The Law of Conservation of Mass states that mass is neither created nor destroyed in a chemical reaction.</p><p><strong>Step 1: The Experiment</strong><br>Antoine Lavoisier conducted careful experiments with combustion. He observed that when mercury reacts with oxygen to form mercuric oxide, the total mass remains constant.</p><p><strong>Step 2: The Formulation</strong><br>Mathematically, this means: \\( \\text{Mass of Reactants} = \\text{Mass of Products} \\). Even though the physical state changed, the amount of matter remained the same.</p><p><strong>Conclusion:</strong><br>This observation led directly to the formulation of the Law of Conservation of Mass.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Law of Conservation of Mass</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Nuclear Chemistry"
+    ],
+    "Question": {
+      "content": "Atoms of one element often change into atoms in another element in what type of reactions?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nuclear reactions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Ordinary chemical reactions only involve the rearrangement of electrons. The identity of the atoms remains the same. To change an element, you must change the nucleus.</p><p><strong>Step 1: Chemical vs. Nuclear</strong><br>In chemical reactions, atoms bond differently but remain the same element (e.g., Carbon stays Carbon). In <strong>nuclear reactions</strong>, the number of protons in the nucleus changes.</p><p><strong>Step 2: Transmutation</strong><br>Changing the proton count changes the atomic number, which effectively turns one element into another (transmutation).</p><p><strong>Conclusion:</strong><br>Therefore, reactions that change atomic identity are called nuclear reactions.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Nuclear reactions</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Atomic Structure"
+    ],
+    "Question": {
+      "content": "In 1897, J.J. Thompson used magnetic and electric fields to measure what?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The charge-to-mass ratio of the electron (e/m)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>J.J. Thomson discovered the electron using a cathode ray tube (CRT).</p><p><strong>Step 1: The Setup</strong><br>He applied both magnetic and electric fields to a beam of cathode rays (electrons). By balancing the forces from these fields, he could determine how the path of the particles bent.</p><p><strong>Step 2: The Calculation</strong><br>He couldn't measure the charge (e) or mass (m) individually at that time. However, by measuring the deflection, he calculated the ratio of the charge to the mass, denoted as \\( e/m \\).</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> The charge-to-mass ratio (e/m)</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Atomic Structure"
+    ],
+    "Question": {
+      "content": "Rutherford's model of the atom explained the charged nature of matter, but could not account for what?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The stability of the atom"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Rutherford proposed that electrons orbit a positive nucleus like planets orbit the sun. This model had a fatal flaw according to classical physics.</p><p><strong>Step 1: The Problem of Acceleration</strong><br>According to Maxwell's electromagnetic theory, any charged particle undergoing acceleration (like circular motion) must radiate energy continuously.</p><p><strong>Step 2: The Spiral</strong><br>If electrons radiated energy, they would lose speed and spiral into the nucleus, causing the atom to collapse. Rutherford's model could not explain why atoms are stable and don't collapse.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> The stability of the atom</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Quantum Mechanics"
+    ],
+    "Question": {
+      "content": "The wave properties of electromagnetic radiation are described by two independent variables. What are they?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Wavelength and Frequency"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Electromagnetic waves are characterized by how long the wave is and how fast it vibrates.</p><p><strong>Step 1: Wavelength (\\( \\lambda \\))</strong><br>This is the distance between two consecutive peaks (crests) or troughs of the wave.</p><p><strong>Step 2: Frequency (\\( \\nu \\))</strong><br>This is the number of wave cycles that pass a given point per second.</p><p><strong>Relationship:</strong><br>They are related by the speed of light: \\( c = \\lambda \\nu \\). Since \\( c \\) is constant, defining these two variables fully describes the wave nature.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Wavelength and Frequency</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Quantum Mechanics"
+    ],
+    "Question": {
+      "content": "In a vacuum, all electromagnetic radiation travels at what speed?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The speed of light (c)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>A fundamental constant of the universe is that all forms of electromagnetic radiation (from radio waves to gamma rays) travel at the same velocity in a vacuum.</p><p><strong>Step 1: The Constant</strong><br>This speed is known as the speed of light, denoted by the symbol \\( c \\).</p><p><strong>Step 2: The Value</strong><br>The value is approximately \\( 3.0 \\times 10^8 \\) meters per second (m/s).</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> The speed of light (approx \\( 3 \\times 10^8 \\) m/s)</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Quantum Mechanics"
+    ],
+    "Question": {
+      "content": "In 1905, Albert Einstein presented his photon theory to explain what?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The Photoelectric Effect"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Physicists observed that light could eject electrons from metal surfaces, but classical wave theory couldn't explain why low-intensity blue light worked while high-intensity red light didn't.</p><p><strong>Step 1: Einstein's Proposal</strong><br>Einstein proposed that light acts as discrete packets of energy called <strong>photons</strong> (quanta), where Energy \\( E = h\\nu \\).</p><p><strong>Step 2: Explaining the Effect</strong><br>This theory perfectly explained the experimental data of the Photoelectric Effect, showing that the energy of individual photons determines if an electron is ejected, not just the total brightness of the light.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> The Photoelectric Effect</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Quantum Mechanics"
+    ],
+    "Question": {
+      "content": "According to Albert Einstein equation, mass can be converted to energy. The energy wave should have a frequency described by what?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\( \\nu = \\frac{E}{h} \\) (or derived from \\( \\nu = \\frac{mc^2}{h} \\))"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>The question connects mass-energy equivalence with the wave nature of energy.</p><p><strong>Step 1: Mass-Energy Equivalence</strong><br>Einstein's famous equation is \\( E = mc^2 \\), stating mass can be converted to energy.</p><p><strong>Step 2: Energy-Frequency Relation</strong><br>Max Planck showed that the energy of a wave is related to its frequency by \\( E = h\\nu \\), where \\( h \\) is Planck's constant.</p><p><strong>Conclusion:</strong><br>Combining these, the frequency is described by the relationship \\( \\nu = E/h \\). If converting mass directly to frequency, it is \\( \\nu = mc^2/h \\).</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> \\( \\nu = E/h \\)</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Quantum Mechanics"
+    ],
+    "Question": {
+      "content": "The uncertainty principle is expressed mathematically as \\( \\Delta x \\cdot m\\Delta u > h/4\\pi \\). What are \\( \\Delta x \\) and \\( \\Delta u \\)?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Uncertainty in position and Uncertainty in velocity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Heisenberg's Uncertainty Principle states that we cannot simultaneously know the exact position and momentum of a particle.</p><p><strong>Step 1: Analyzing the variables</strong><br>The formula is \\( \\Delta x \\cdot m\\Delta u \\ge \\frac{h}{4\\pi} \\).</p><p><strong>Step 2: Definitions</strong><br>\\( \\Delta x \\) represents the error (uncertainty) in the measurement of the particle's <strong>position</strong>.<br>\\( \\Delta u \\) (often written as \\( \\Delta v \\)) represents the error (uncertainty) in the measurement of the particle's <strong>velocity</strong> (speed).</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Uncertainty in position and velocity</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Atomic Structure"
+    ],
+    "Question": {
+      "content": "An electron did not radiate energy if it stayed in one orbit and therefore did not slow down. This was one of the statements of ...",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bohr's Atomic Model (or Bohr's Postulates)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>To fix the instability issue in Rutherford's model, Niels Bohr introduced the concept of quantization.</p><p><strong>Step 1: Stationary Orbits</strong><br>Bohr postulated that electrons move in specific, fixed orbits (energy levels) around the nucleus. </p><p><strong>Step 2: Non-radiating State</strong><br>Crucially, he stated that while in these stationary orbits, the electron <strong>does not radiate energy</strong>. It only absorbs or emits energy when jumping <em>between</em> orbits.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Bohr's Atomic Model</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Quantum Mechanics"
+    ],
+    "Question": {
+      "content": "This quantum number describes the main energy level or shell of the electron and is denoted by the symbol \\( n \\). What is it called?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Principal Quantum Number"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Quantum numbers acts as the 'address' for an electron. The first and most fundamental one is the Principal Quantum Number.</p><p><strong>Step 1: Definition</strong><br>The Principal Quantum Number, represented by \\( n \\), indicates the main energy level (shell) an electron occupies (e.g., K, L, M shells corresponding to \\( n=1, 2, 3 \\)).</p><p><strong>Step 2: Significance</strong><br>It determines the size of the orbital and the energy of the electron. The larger the \\( n \\), the further the electron is from the nucleus.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Principal Quantum Number</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Quantum Mechanics"
+    ],
+    "Question": {
+      "content": "Which quantum number determines the shape of the orbital and is represented by the symbol \\( l \\)?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Azimuthal Quantum Number (or Subsidiary/Angular Momentum Quantum Number)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>While \\( n \\) gives the size, the second quantum number gives the 3D shape of the region where the electron is found.</p><p><strong>Step 1: Identification</strong><br>The Azimuthal Quantum Number is denoted by \\( l \\). Its values range from \\( 0 \\) to \\( n-1 \\).</p><p><strong>Step 2: Shapes</strong><br>The value of \\( l \\) corresponds to specific subshells with distinct shapes:<br>\\( l=0 \\) (s-orbital, spherical)<br>\\( l=1 \\) (p-orbital, dumbbell)<br>\\( l=2 \\) (d-orbital, double dumbbell).</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Azimuthal Quantum Number</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "Quantum Mechanics"
+    ],
+    "Question": {
+      "content": "What is the maximum number of electrons that can be accommodated in a shell with principal quantum number \\( n \\)?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\( 2n^2 \\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Each energy level (shell) has a strict capacity limit for electrons.</p><p><strong>Step 1: The Formula</strong><br>The total capacity of a shell is calculated using the formula \\( 2n^2 \\), where \\( n \\) is the shell number.</p><p><strong>Step 2: Example</strong><br>For the first shell (\\( n=1 \\)): \\( 2(1)^2 = 2 \\) electrons.<br>For the second shell (\\( n=2 \\)): \\( 2(2)^2 = 8 \\) electrons.<br>For the third shell (\\( n=3 \\)): \\( 2(3)^2 = 18 \\) electrons.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> \\( 2n^2 \\)</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "Quantum Mechanics"
+    ],
+    "Question": {
+      "content": "No two electrons in an atom can have the same set of four quantum numbers. This is a statement of which principle?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pauli Exclusion Principle"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>This is a fundamental rule governing the arrangement of electrons in atoms.</p><p><strong>Step 1: The Rule</strong><br>Wolfgang Pauli stated that no two electrons can be in the exact same state.</p><p><strong>Step 2: Implication</strong><br>Since an orbital is defined by three quantum numbers (\\( n, l, m_l \\)), the fourth number (spin, \\( m_s \\)) must be different. This means an orbital can hold a maximum of two electrons, and they must have <strong>opposite spins</strong> (\\( +1/2 \\) and \\( -1/2 \\)).</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Pauli Exclusion Principle</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Quantum Mechanics"
+    ],
+    "Question": {
+      "content": "When filling degenerate orbitals (orbitals of equal energy), electrons fill them singly first, with parallel spins, before pairing occurs. This is known as?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hund's Rule of Maximum Multiplicity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Electrons repel each other because they are negatively charged. Hund's Rule minimizes this repulsion.</p><p><strong>Step 1: The Scenario</strong><br>Consider a p-subshell with three orbitals (\\( p_x, p_y, p_z \\)). If you have 3 electrons to put in, how do you arrange them?</p><p><strong>Step 2: The Application</strong><br>Hund's Rule states you should put one electron in each orbital first (↑)(↑)(↑) rather than pairing them up immediately (↑↓)(↑)( ). This configuration is energetically more stable.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Hund's Rule</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": [
+      "Atomic Structure"
+    ],
+    "Question": {
+      "content": "The 's' orbital is spherically symmetrical. What is the shape of the 'p' orbital?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dumbbell shaped"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Orbitals represent the probability density of finding an electron.</p><p><strong>Step 1: s-orbital</strong><br>The \\( l=0 \\) (s-orbital) is a sphere, meaning the probability of finding an electron is the same in all directions from the nucleus.</p><p><strong>Step 2: p-orbital</strong><br>The \\( l=1 \\) (p-orbital) has two lobes separated by a node at the nucleus, resembling a dumbbell or an hourglass shape.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Dumbbell shaped</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": [
+      "Atomic Structure"
+    ],
+    "Question": {
+      "content": "Electrons enter orbitals of lowest energy first before filling higher energy orbitals. This principle is called?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Aufbau Principle"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>'Aufbau' is a German word meaning 'building up'.</p><p><strong>Step 1: Energy Hierarchy</strong><br>Orbitals have different energy levels (e.g., 1s < 2s < 2p < 3s). Nature prefers the lowest energy state (ground state).</p><p><strong>Step 2: The Rule</strong><br>Therefore, electrons will always fill the 1s orbital completely before moving to the 2s, and so on. The order is determined by the \\( n + l \\) rule.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Aufbau Principle</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": [
+      "Nuclear Chemistry"
+    ],
+    "Question": {
+      "content": "Atoms of the same element that have the same atomic number but different mass numbers are called what?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Isotopes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>The identity of an element is defined strictly by its proton count (atomic number).</p><p><strong>Step 1: Same Protons</strong><br>Isotopes are atoms of the same element, so they must have the same number of protons (and electrons, if neutral).</p><p><strong>Step 2: Different Neutrons</strong><br>However, they can possess different numbers of neutrons in the nucleus. This changes the total mass (Mass Number = Protons + Neutrons) without changing the chemical identity.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Isotopes</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "Quantum Mechanics"
+    ],
+    "Question": {
+      "content": "The region in space around the nucleus where there is a high probability (over 90%) of finding an electron is called a(n) ...?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Orbital (Atomic Orbital)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>This is a key distinction between the Bohr model and Quantum Mechanics.</p><p><strong>Step 1: Orbit vs. Orbital</strong><br>Bohr proposed 'orbits' (fixed paths like planetary rings). Quantum mechanics, using Heisenberg's Uncertainty Principle, says we can't know the exact path.</p><p><strong>Step 2: Probability Clouds</strong><br>Instead, we define a 3D volume where the electron is <em>likely</em> to be found most of the time. This volume is called an orbital.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Orbital</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "Quantum Mechanics"
+    ],
+    "Question": {
+      "content": "De Broglie proposed that matter, like electrons, possesses dual nature. What is the relationship between the wavelength (\\( \\lambda \\)) and momentum (\\( p \\)) of a particle?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\( \\lambda = \\frac{h}{p} \\) (or \\( \\lambda = \\frac{h}{mv} \\) )"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Louis de Broglie suggested that if waves can act like particles (photons), then particles can act like waves.</p><p><strong>Step 1: The Equation</strong><br>He combined Einstein's energy equation and Planck's equation to derive the de Broglie wavelength formula: \\( \\lambda = h/mv \\).</p><p><strong>Step 2: Variables</strong><br>\\( h \\) is Planck's constant, \\( m \\) is mass, and \\( v \\) is velocity. Since momentum \\( p = mv \\), the equation is often written as \\( \\lambda = h/p \\).</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> \\( \\lambda = \\frac{h}{p} \\)</div></div>"
+    }
+  },
+  {
+    "type": "Instruction",
+    "content": "SECTION B: Answer all questions in this section."
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": [
+      "Atomic Structure"
+    ],
+    "Question": {
+      "content": "The splitting of spectral lines when an atom is placed in a magnetic field is known as what?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Zeeman Effect"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>When an atom is placed in a magnetic field, the energy levels of its orbitals split.</p><p><strong>Step 1: Observation</strong><br>Pieter Zeeman observed that single spectral lines split into multiple components in the presence of a magnetic field.</p><p><strong>Step 2: Explanation</strong><br>This happens because electrons have magnetic moments due to their orbital motion and spin. The external magnetic field interacts with these moments, causing slight energy differences in previously degenerate orbitals.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Zeeman Effect</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": [
+      "Periodicity"
+    ],
+    "Question": {
+      "content": "Elements in the same group of the periodic table have similar chemical properties because they have the same number of what?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Valence Electrons"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Chemical reactions are all about the interaction of the outermost electrons.</p><p><strong>Step 1: Valence Shell</strong><br>The outermost shell of an atom is called the valence shell. The electrons here are the ones involved in bonding.</p><p><strong>Step 2: Group Similarity</strong><br>Elements in the same column (group) always have the same number of valence electrons (e.g., all Group 1 elements have 1 valence electron). Therefore, they react in very similar ways.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Valence Electrons</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": [
+      "Periodicity"
+    ],
+    "Question": {
+      "content": "The energy required to remove the most loosely bound electron from an isolated gaseous atom is called?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ionization Energy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Atoms hold onto their electrons with electrostatic force. To pull one away, you must supply energy.</p><p><strong>Step 1: Definition</strong><br>Ionization Energy (IE) is the minimum energy needed to remove an electron from a neutral atom in the gas phase.</p><p><strong>Step 2: Trend</strong><br>It generally increases across a period (harder to remove) and decreases down a group (easier to remove).</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Ionization Energy</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": [
+      "Periodicity"
+    ],
+    "Question": {
+      "content": "Which element has the highest electronegativity on the Pauling scale?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fluorine"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Electronegativity measures how strongly an atom attracts bonding electrons to itself.</p><p><strong>Step 1: The Scale</strong><br>Linus Pauling developed a scale to quantify this property. It ranges from roughly 0.7 (Francium) to 4.0 (Fluorine).</p><p><strong>Step 2: The Champion</strong><br>Fluorine is the most electronegative element because it has a small atomic radius and a high effective nuclear charge, allowing it to pull electrons very strongly.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Fluorine (F)</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": [
+      "Chemical Bonding"
+    ],
+    "Question": {
+      "content": "A bond formed by the equal sharing of electrons between two atoms is called?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Non-polar Covalent Bond"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Bonds are classified by how electrons are distributed between the atoms.</p><p><strong>Step 1: Sharing</strong><br>When atoms share electrons, it is a <strong>covalent</strong> bond.</p><p><strong>Step 2: Equality</strong><br>If the atoms have identical or very similar electronegativities (like H-H or Cl-Cl), they share the electrons equally. This is called a <strong>non-polar</strong> covalent bond.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Non-polar Covalent Bond</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": [
+      "Chemical Bonding"
+    ],
+    "Question": {
+      "content": "The shape of a methane (\\( CH_4 \\)) molecule is determined by the repulsion between electron pairs. What is this shape?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tetrahedral"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>VSEPR theory states that electron pairs around a central atom will arrange themselves as far apart as possible.</p><p><strong>Step 1: Counting Pairs</strong><br>Carbon in Methane has 4 bonding pairs and 0 lone pairs.</p><p><strong>Step 2: Geometry</strong><br>To maximize the distance between 4 pairs in 3D space, they point to the corners of a tetrahedron. The bond angle is \\( 109.5^\\circ \\).</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Tetrahedral</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": [
+      "Chemical Bonding"
+    ],
+    "Question": {
+      "content": "In the water molecule (\\( H_2O \\)), the bond angle is less than \\( 109.5^\\circ \\) due to the presence of what?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lone Pairs of Electrons"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Not all electron pairs repel equally. Lone pairs take up more space than bonding pairs.</p><p><strong>Step 1: Oxygen's Structure</strong><br>Oxygen has 2 bonding pairs (connected to H) and 2 lone pairs.</p><p><strong>Step 2: Repulsion</strong><br>The repulsion from the two lone pairs is stronger than the repulsion between bonding pairs. This 'squeezes' the H-O-H bond angle down from the ideal \\( 109.5^\\circ \\) to about \\( 104.5^\\circ \\).</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Lone Pairs</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": [
+      "Chemical Bonding"
+    ],
+    "Question": {
+      "content": "What type of hybridization is associated with a linear molecular geometry, such as in \\( BeCl_2 \\)?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "sp Hybridization"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Hybridization mixes atomic orbitals to form new degenerate hybrid orbitals for bonding.</p><p><strong>Step 1: Linear Geometry</strong><br>For a molecule to be linear (180° bond angle), the central atom needs two equivalent orbitals pointing in opposite directions.</p><p><strong>Step 2: Mixing</strong><br>This is achieved by mixing one s-orbital and one p-orbital, creating two <strong>sp</strong> hybrid orbitals.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> sp Hybridization</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": [
+      "Coordination Chemistry"
+    ],
+    "Question": {
+      "content": "A ligand that can donate two pairs of electrons to a central metal ion is called?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bidentate Ligand"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Ligands are classified by how many 'teeth' (donor atoms) they use to bite the metal ion.</p><p><strong>Step 1: Denticity</strong><br>'Dentate' comes from the Latin word for tooth. </p><p><strong>Step 2: Classification</strong><br>A ligand with one donor atom is monodentate. A ligand with two donor atoms (like ethylenediamine) that can bind simultaneously is called <strong>bidentate</strong>.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Bidentate Ligand</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": [
+      "Coordination Chemistry"
+    ],
+    "Question": {
+      "content": "The number of donor atoms bonded to a central metal ion in a complex is known as its?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Coordination Number"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>This is a fundamental property of coordination complexes.</p><p><strong>Step 1: Definition</strong><br>The Coordination Number is simply the count of coordinate covalent bonds between the ligands and the central metal ion.</p><p><strong>Step 2: Example</strong><br>In \\( [Fe(CN)_6]^{3-} \\), there are 6 cyanide ligands bonded to Iron, so the coordination number is 6.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Coordination Number</div></div>"
+    }
+  },
+  
+  {
+    "type": "Instruction",
+    "content": "<b>SECTION C:</b> Answer all questions. This section covers Transition Metals, Coordination Chemistry, and Nuclear Chemistry."
+  },
+  
+  
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": [
+      "Transition Metals"
+    ],
+    "Question": {
+      "content": "Transition metals are defined as elements that have partially filled d-orbitals in their neutral atom or stable ions. Which Group 12 element is technically NOT considered a transition metal by this definition?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Zinc (Zn)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>The IUPAC definition of a transition metal requires a strictly partially filled d-subshell.</p><p><strong>Step 1: Configuration of Zinc</strong><br>Zinc has an atomic number of 30. Its electron configuration is \\( [Ar] 3d^{10} 4s^2 \\).</p><p><strong>Step 2: Analysis</strong><br>As a neutral atom, its d-orbital is full (10 electrons). When it forms its only stable ion (\\( Zn^{2+} \\)), it loses the 4s electrons, leaving \\( 3d^{10} \\)—still full.</p><p><strong>Conclusion:</strong><br>Because it never has a partially filled d-orbital, Zinc is often excluded from the strict definition of transition metals.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Zinc</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": [
+      "Transition Metals"
+    ],
+    "Question": {
+      "content": "Most transition metal compounds are colored. This color arises due to the transition of electrons between split d-orbitals. What is this transition called?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "d-d Transition"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Color in chemistry is often due to the absorption of visible light.</p><p><strong>Step 1: Crystal Field Splitting</strong><br>When ligands approach a metal, the d-orbitals split into different energy levels (e.g., \\( t_{2g} \\) and \\( e_g \\)).</p><p><strong>Step 2: Electron Jump</strong><br>An electron in the lower energy d-orbital can absorb a photon of light and jump to the higher energy d-orbital. This is the <strong>d-d transition</strong>.</p><p><strong>Conclusion:</strong><br>The energy gap corresponds to a specific wavelength of visible light; the complementary color is what we see.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> d-d Transition</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": [
+      "Coordination Chemistry"
+    ],
+    "Question": {
+      "content": "In Crystal Field Theory, for an octahedral complex, the d-orbitals split into two sets. What is the symbol for the lower energy set of three orbitals?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\( t_{2g} \\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>In an octahedral field (6 ligands), the d-orbitals are affected differently based on their orientation.</p><p><strong>Step 1: Axial vs. Interaxial</strong><br>The orbitals pointing directly at the ligands (\\( d_{x^2-y^2}, d_{z^2} \\)) are repelled more and go to higher energy (\\( e_g \\)).</p><p><strong>Step 2: Lower Energy</strong><br>The orbitals pointing <em>between</em> the ligands (\\( d_{xy}, d_{yz}, d_{xz} \\)) are repelled less and stabilize at a lower energy.</p><p><strong>Step 3: Labeling</strong><br>This lower set of three degenerate orbitals is labeled \\( t_{2g} \\).</p>[attachment_0](attachment)<div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> \\( t_{2g} \\)</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": [
+      "Coordination Chemistry"
+    ],
+    "Question": {
+      "content": "Isomers that have the same chemical formula but differ in the spatial arrangement of ligands (e.g., cis- and trans- forms) are called?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Geometric Isomers (or Stereoisomers)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Isomerism is common in coordination complexes.</p><p><strong>Step 1: Connectivity</strong><br>If the bonds are the same but the 3D arrangement differs, they are stereoisomers.</p><p><strong>Step 2: Geometric</strong><br> specifically, when identical ligands are adjacent (90° apart), it is the <strong>cis-</strong> isomer. When they are opposite (180° apart), it is the <strong>trans-</strong> isomer.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Geometric Isomers</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": [
+      "Nuclear Chemistry"
+    ],
+    "Question": {
+      "content": "In radioactive decay, the time required for half of the radioactive nuclei in a sample to decay is called?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Half-life (\\( t_{1/2} \\))"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Radioactive decay is a random process, but it follows statistically predictable kinetics.</p><p><strong>Step 1: Definition</strong><br>The half-life is a constant property for a given isotope. It is the time it takes for the activity (or mass) of the sample to drop to 50% of its initial value.</p><p><strong>Step 2: Formula</strong><br>For first-order decay, \\( t_{1/2} = \\frac{0.693}{\\lambda} \\), where \\( \\lambda \\) is the decay constant.</p>[attachment_1](attachment)<div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Half-life</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": [
+      "Nuclear Chemistry"
+    ],
+    "Question": {
+      "content": "An alpha particle is identical to the nucleus of which element?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Helium (\\( ^4_2He \\))"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Alpha decay is a common mode of radioactivity for heavy nuclei.</p><p><strong>Step 1: Composition</strong><br>An alpha particle consists of 2 protons and 2 neutrons bound together.</p><p><strong>Step 2: Identification</strong><br>This composition (2p, 2n) is exactly the same as a Helium-4 nucleus. It has a charge of +2 and a mass of 4 amu.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Helium Nucleus</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": [
+      "Chemical Bonding"
+    ],
+    "Question": {
+      "content": "According to Molecular Orbital Theory, if the Bond Order is zero, does the molecule exist?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "No (The molecule is unstable)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Bond Order indicates the stability of a bond.</p><p><strong>Step 1: Calculation</strong><br>\\( \\text{Bond Order} = \\frac{1}{2}(\\text{Electrons in Bonding MO} - \\text{Electrons in Antibonding MO}) \\).</p><p><strong>Step 2: Interpretation</strong><br>A positive bond order means the molecule is stable. A bond order of zero means the stabilizing forces (bonding electrons) are perfectly cancelled by destabilizing forces (antibonding electrons), so no bond forms.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> No</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": [
+      "Chemical Bonding"
+    ],
+    "Question": {
+      "content": "A bond formed by the head-on overlap of atomic orbitals along the internuclear axis is called?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sigma (\\( \\sigma \\)) Bond"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Covalent bonds are classified by how the orbitals overlap.</p><p><strong>Step 1: Head-on Overlap</strong><br>When orbitals overlap directly between the two nuclei (head-to-head), the electron density is concentrated on the axis connecting the atoms.</p><p><strong>Step 2: Strength</strong><br>This is the strongest type of covalent bond and is called a Sigma bond. The first bond formed between any two atoms is always a sigma bond.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Sigma Bond</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": [
+      "Acids and Bases"
+    ],
+    "Question": {
+      "content": "According to the Lewis definition, a substance that can accept an electron pair is called a ...",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lewis Acid"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>The Lewis theory broadens the definition of acids and bases beyond just protons (\\( H^+ \\)).</p><p><strong>Step 1: Electron Focus</strong><br>Lewis looked at electron movement. A base donates a pair of electrons.</p><p><strong>Step 2: The Acceptor</strong><br>Any species (like \\( BF_3 \\) or \\( H^+ \\)) that can <strong>accept</strong> that lone pair to form a coordinate covalent bond is defined as a Lewis Acid.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Lewis Acid</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": [
+      "Transition Metals"
+    ],
+    "Question": {
+      "content": "Which series of the inner transition metals is characterized by the filling of the 4f orbitals?",
+      "type": "Theory"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lanthanides (or Lanthanoids)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>The inner transition metals (at the bottom of the table) are divided into two series.</p><p><strong>Step 1: 4f Series</strong><br>Elements 57-71 involve the filling of the 4f subshell. These are the Lanthanides (named after Lanthanum).</p><p><strong>Step 2: 5f Series</strong><br>The series below them involves the filling of the 5f subshell and are called Actinides.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Lanthanides</div></div>"
+    }
+  }
+]
+
+
