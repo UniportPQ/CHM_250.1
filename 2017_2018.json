@@ -1,0 +1,759 @@
+[
+  
+  {
+    "type": "pageInfo",
+    "kind": "OBJ",
+    "course_title": "Inorganic chemistry",
+    "code": "CHEM 250.1",
+    "session": "2017/2018",
+    "topics": ["Periodic Table", "Noble Gases", "Physical Properties", "Allotropes", "Oxygen", "Fluorine", "Oxidation States", "Halogens", "Group V Elements", "Phosphorus", "Chemical Reactions", "Inert Pair Effect", "Boron Family", "p-block Elements", "Nitrogen Oxides", "Nitrogen Sesquioxide", "Nitrogen", "Chemical Bonding", "Octet Rule", "Atomic Structure and Quantum Theory", "Classical Physics", "Atomic Models", "History of Chemistry", "Valence Bond Theory", "Hybridization", "Scandium", "Classification", "Ionic Bond", "Electronic Configuration", "Bromine", "Wave-Particle Duality", "Periods", "Elements", "Periodic Law", "Alkaline Earth Metals", "Water Hardness", "Inorganic Chemistry", "Water Treatment", "Molecular Orbital Theory", "Electronegativity", "Boron", "Interhalogen Compounds", "Beryllium", "Anomalous Behavior", "Ionization Energ"],
+    "time": "120"
+  },
+   {
+   "type": "Instruction",
+   "content": "Attempt All Questions"
+ },
+  
+  {
+    "type": "heading",
+   "heading": "section A"
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Periodic Table",
+      "Noble Gases",
+      "Physical Properties"
+    ],
+    "Question": {
+      "content": "Which element has the lowest boiling point?",
+      "type": "OBJ",
+      "options": [
+        "Neon",
+        "Argon",
+        "Helium",
+        "Krypton"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Helium"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Lowest Boiling Point Element</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>The Answer: Helium</strong><br>\n   <strong>Helium (He)</strong> has the lowest boiling point of any element at <strong>4.2 K (-268.95°C)</strong>.\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Why is helium's boiling point so low?</strong><br>\n   <ul>\n     <li>It is a noble gas with a completely filled electron shell (1s²)</li>\n     <li>It has extremely weak interatomic forces (London dispersion forces) due to its small size and low number of electrons</li>\n     <li>It has high zero-point energy (quantum mechanical effect) that keeps atoms in motion even at extremely low temperatures</li>\n   </ul>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Interesting Fact:</strong><br>\n   Helium is the only element that cannot be solidified by cooling alone at normal atmospheric pressure - it remains liquid down to absolute zero. To form solid helium, pressure must be applied (about 25 atmospheres).\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Helium (He) has the lowest boiling point of any element.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Allotropes",
+      "Oxygen"
+    ],
+    "Question": {
+      "content": "What are the two metallic forms of oxygen?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ozone (O₃) and Dioxygen (O₂) – the two common allotropes of oxygen"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Forms of Oxygen</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Understanding Allotropes:</strong><br>\n   Allotropes are different structural forms of the same element in the same physical state.\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>The Two Main Allotropes of Oxygen:</strong><br>\n   \n   <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n     <strong>1. Dioxygen (O₂):</strong>\n     <ul>\n       <li>The common form of oxygen we breathe</li>\n       <li>Makes up about 21% of Earth's atmosphere</li>\n       <li>Colorless, odorless gas at room temperature</li>\n       <li>Essential for respiration in most living organisms</li>\n     </ul>\n     \n     <strong style='display: block; margin-top: 15px;'>2. Ozone (O₃):</strong>\n     <ul>\n       <li>A pale blue gas with a distinct pungent odor</li>\n       <li>Found in the stratosphere (ozone layer)</li>\n       <li>Less stable than O₂ and decomposes to O₂</li>\n       <li>Forms a protective layer that absorbs harmful UV radiation</li>\n     </ul>\n   </div>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Note on \"Metallic Forms\":</strong><br>\n   Under extremely high pressure, solid oxygen can become metallic (ε-phase or ζ-phase), exhibiting metallic conductivity. However, the question likely refers to the two common allotropes: O₂ and O₃.\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> The two forms of oxygen are dioxygen (O₂) and ozone (O₃).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Fluorine",
+      "Oxidation States",
+      "Halogens"
+    ],
+    "Question": {
+      "content": "Fluorine brings out the highest oxidation state of other elements as a result of its what two properties?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Small size and high electronegativity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Fluorine's Unique Properties</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Why Fluorine is Special:</strong><br>\n   Fluorine is the most reactive non-metal and has two key properties that allow it to bring out the highest oxidation states in other elements:\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor);'>1. Small Size:</strong>\n   <ul>\n     <li>Fluorine has the smallest atomic radius among halogens (only 71 pm)</li>\n     <li>Its small size allows it to approach other atoms closely and form strong bonds</li>\n     <li>It can fit into crowded coordination spheres around central atoms</li>\n   </ul>\n   \n   <strong style='color: var(--strongColor); display: block; margin-top: 15px;'>2. High Electronegativity:</strong>\n   <ul>\n     <li>Fluorine is the most electronegative element (Pauling electronegativity = 3.98)</li>\n     <li>It strongly pulls electrons away from other atoms</li>\n     <li>This oxidizes the other element to its highest possible oxidation state</li>\n   </ul>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Examples of Highest Oxidation States Achieved by Fluorine:</strong><br>\n   <ul>\n     <li>IF₇ - Iodine reaches +7 oxidation state (highest for iodine)</li>\n     <li>SF₆ - Sulfur reaches +6 oxidation state</li>\n     <li>PtF₆ - Platinum reaches +6 oxidation state</li>\n     <li>ClF₃, ClF₅ - Chlorine reaches +3 and +5 oxidation states</li>\n   </ul>\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Fluorine brings out the highest oxidation state of other elements due to its small size and high electronegativity.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Group V Elements",
+      "Phosphorus",
+      "Chemical Reactions"
+    ],
+    "Question": {
+      "content": "A group (V) element is a white solid with strong attraction for water and it reacts with water to form what products?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Phosphorus (P₄) reacts with water to form phosphine (PH₃) and phosphorous acid (H₃PO₃)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>White Phosphorus Reaction with Water</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Identifying the Element:</strong><br>\n   The group V element described is <strong>white phosphorus (P₄)</strong>. It is:\n   <ul>\n     <li>A white or yellowish waxy solid</li>\n     <li>Highly reactive and pyrophoric (ignites in air)</li>\n     <li>Has a strong affinity for water (hygroscopic)</li>\n     <li>Stored under water to prevent contact with air</li>\n   </ul>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Reaction with Water:</strong><br>\n   White phosphorus reacts slowly with water, especially in the presence of light, to produce:\n   \n   <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0; text-align: center; font-size: 1.2rem;'>\n     \\(P_4 + 6H_2O \\rightarrow PH_3 + 3H_3PO_3\\)\n   </div>\n   \n   <ul style='margin-top: 10px;'>\n     <li><strong>PH₃ (Phosphine):</strong> A toxic, flammable gas with a garlic-like odor</li>\n     <li><strong>H₃PO₃ (Phosphorous acid):</strong> A weak acid that remains in solution</li>\n   </ul>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Note:</strong><br>\n   This reaction is slow at room temperature but accelerates with heating. The phosphine produced can sometimes ignite spontaneously in air, giving rise to \"will-o'-the-wisps\" phenomenon.\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> White phosphorus (P₄) reacts with water to form phosphine (PH₃) and phosphorous acid (H₃PO₃).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Inert Pair Effect",
+      "Boron Family",
+      "p-block Elements"
+    ],
+    "Question": {
+      "content": "The ability of group (III) elements to withhold its s-electrons from participating in bonding is known as what?",
+      "type": "OBJ",
+      "options": [
+        "Shielding effect",
+        "Inert pair effect",
+        "Lanthanide contraction",
+        "Electron affinity"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Inert pair effect"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Inert Pair Effect</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   The <strong>inert pair effect</strong> is the tendency of the two electrons in the outermost s-orbital (ns²) of heavier p-block elements to remain non-ionized or non-bonding.\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Why Does It Happen?</strong><br>\n   <ul>\n     <li>As we move down a group, the ns² electrons penetrate closer to the nucleus</li>\n     <li>They are held more tightly due to poor shielding by intervening d and f electrons</li>\n     <li>These s-electrons experience higher effective nuclear charge</li>\n     <li>They become 'inert' - less available for bonding or ionization</li>\n   </ul>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Effect on Group III Elements (Boron Family):</strong><br>\n   <table style='width: 100%; border-collapse: collapse; margin-top: 10px;'>\n     <tr style='background: var(--strongColor); color: white;'>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Element</th>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Common Oxidation States</th>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Trend</th>\n     </tr>\n     <tr style='background: rgba(0,0,0,0.02);'>\n       <td style='padding: 8px; border: 1px solid #ddd;'>B, Al</td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>Only +3</td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>No inert pair effect</td>\n     </tr>\n     <tr>\n       <td style='padding: 8px; border: 1px solid #ddd;'>Ga, In</td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>+3 and some +1</td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>Inert pair effect appears</td>\n     </tr>\n     <tr style='background: rgba(0,0,0,0.02);'>\n       <td style='padding: 8px; border: 1px solid #ddd;'>Tl (Thallium)</td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>Predominantly +1</td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>Strong inert pair effect</td>\n     </tr>\n   </table>\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> The phenomenon is called the <strong>inert pair effect</strong>.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Nitrogen Oxides",
+      "Nitrogen Sesquioxide"
+    ],
+    "Question": {
+      "content": "Nitrogen Sesquioxide is an unstable acidic oxide of Nitrogen which can be obtained by reacting what with what?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nitrogen monoxide (NO) with nitrogen dioxide (NO₂)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Nitrogen Sesquioxide (N₂O₃)</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>What is Nitrogen Sesquioxide?</strong><br>\n   Nitrogen sesquioxide is <strong>dinitrogen trioxide (N₂O₃)</strong>. It is:\n   <ul>\n     <li>An unstable blue liquid at low temperatures</li>\n     <li>The anhydride of nitrous acid (HNO₂)</li>\n     <li>An acidic oxide that reacts with water to form nitrous acid</li>\n   </ul>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Preparation Method:</strong><br>\n   N₂O₃ is obtained by mixing equimolar amounts of <strong>nitrogen monoxide (NO)</strong> and <strong>nitrogen dioxide (NO₂)</strong> at low temperatures:\n   \n   <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0; text-align: center; font-size: 1.2rem;'>\n     \\(NO + NO_2 \\rightleftharpoons N_2O_3\\)\n   </div>\n   \n   <p>The reaction is reversible and favors N₂O₃ formation only at low temperatures (below -20°C). At room temperature, N₂O₃ dissociates back into NO and NO₂.</p>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Properties:</strong><br>\n   <ul>\n     <li>Deep blue color in liquid and solid states</li>\n     <li>Unstable and dissociates easily</li>\n     <li>Reacts with water: \\(N_2O_3 + H_2O \\rightarrow 2HNO_2\\) (nitrous acid)</li>\n     <li>Reacts with alkalis to form nitrites</li>\n   </ul>\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Nitrogen sesquioxide (N₂O₃) is obtained by reacting nitrogen monoxide (NO) with nitrogen dioxide (NO₂).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Nitrogen",
+      "Chemical Bonding",
+      "Octet Rule"
+    ],
+    "Question": {
+      "content": "Nitrogen cannot extend its covalency to five due to what two reasons?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Absence of d-orbitals and small size"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Why Nitrogen's Covalency is Limited to 4</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Understanding Covalency:</strong><br>\n   Covalency is the number of covalent bonds an atom can form. While phosphorus (below nitrogen in Group 15) can form up to 5 covalent bonds (e.g., PCl₅), nitrogen cannot exceed 4.\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor);'>Reason 1: Absence of d-orbitals</strong>\n   <ul>\n     <li>Nitrogen is in Period 2, so its valence shell is n=2</li>\n     <li>The second shell has only s and p orbitals (2s and 2p) - no d-orbitals</li>\n     <li>To expand its octet beyond 8 electrons, an atom needs available d-orbitals to accommodate extra electrons</li>\n     <li>Nitrogen simply doesn't have any d-orbitals to use</li>\n   </ul>\n   \n   <strong style='color: var(--strongColor); display: block; margin-top: 15px;'>Reason 2: Small Size</strong>\n   <ul>\n     <li>Nitrogen has a very small atomic radius (about 75 pm)</li>\n     <li>Its small size cannot physically accommodate five large atoms or groups around it</li>\n     <li>There isn't enough space for five bonds due to steric hindrance</li>\n   </ul>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Comparison with Phosphorus:</strong><br>\n   Phosphorus (Period 3) has:\n   <ul>\n     <li>Available 3d orbitals to expand its octet</li>\n     <li>Larger size to accommodate more atoms</li>\n     <li>Can form PCl₅ (covalency 5) and PF₆⁻ (covalency 6)</li>\n   </ul>\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Nitrogen cannot extend its covalency to five due to the absence of d-orbitals and its small size.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Atomic Structure and Quantum Theory"
+    ],
+    "Question": {
+      "content": "How many degenerate orbitals are in energy level n=4?",
+      "type": "OBJ",
+      "options": [
+        "4",
+        "9",
+        "16",
+        "32"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "16"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Degenerate Orbitals in Energy Level n=4</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>What are Degenerate Orbitals?</strong><br>\n   Degenerate orbitals are orbitals that have the same energy level. In a hydrogen-like atom, all orbitals with the same principal quantum number (n) are degenerate.\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Formula for Number of Orbitals:</strong><br>\n   The number of orbitals in a given energy level n is given by:\n   \n   <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0; text-align: center; font-size: 1.3rem;'>\n     Number of orbitals = n²\n   </div>\n   \n   <p>This is because for each n, there are n subshells (l = 0 to n-1), and each subshell has (2l+1) orbitals.</p>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>For n = 4:</strong><br>\n   \n   <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n     <table style='width: 100%; border-collapse: collapse;'>\n       <tr style='background: var(--strongColor); color: white;'>\n         <th style='padding: 8px; border: 1px solid #ddd;'>Subshell (l)</th>\n         <th style='padding: 8px; border: 1px solid #ddd;'>Orbitals (2l+1)</th>\n         <th style='padding: 8px; border: 1px solid #ddd;'>Count</th>\n       </tr>\n       <tr>\n         <td style='padding: 8px; border: 1px solid #ddd;'>s (l=0)</td>\n         <td style='padding: 8px; border: 1px solid #ddd;'>2(0)+1 = 1</td>\n         <td style='padding: 8px; border: 1px solid #ddd;'>1 orbital</td>\n       </tr>\n       <tr style='background: rgba(0,0,0,0.02);'>\n         <td style='padding: 8px; border: 1px solid #ddd;'>p (l=1)</td>\n         <td style='padding: 8px; border: 1px solid #ddd;'>2(1)+1 = 3</td>\n         <td style='padding: 8px; border: 1px solid #ddd;'>3 orbitals</td>\n       </tr>\n       <tr>\n         <td style='padding: 8px; border: 1px solid #ddd;'>d (l=2)</td>\n         <td style='padding: 8px; border: 1px solid #ddd;'>2(2)+1 = 5</td>\n         <td style='padding: 8px; border: 1px solid #ddd;'>5 orbitals</td>\n       </tr>\n       <tr style='background: rgba(0,0,0,0.02);'>\n         <td style='padding: 8px; border: 1px solid #ddd;'>f (l=3)</td>\n         <td style='padding: 8px; border: 1px solid #ddd;'>2(3)+1 = 7</td>\n         <td style='padding: 8px; border: 1px solid #ddd;'>7 orbitals</td>\n       </tr>\n       <tr style='background: var(--greenBgL);'>\n         <td style='padding: 8px; border: 1px solid #ddd;'><strong>TOTAL</strong></td>\n         <td style='padding: 8px; border: 1px solid #ddd;' colspan='2'><strong>1 + 3 + 5 + 7 = 16 orbitals</strong></td>\n       </tr>\n     </table>\n   </div>\n   \n   <p>All 16 orbitals in the n=4 level are degenerate (same energy) in a hydrogen atom.</p>\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> There are 16 degenerate orbitals in energy level n=4.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Atomic Structure and Quantum Theory"
+    ],
+    "Question": {
+      "content": "Express the wave and particle view of radiant energy.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Wave view: Electromagnetic waves with wavelength and frequency. Particle view: Photons/quanta with energy E = hν."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Wave-Particle Duality of Radiant Energy</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>The Dual Nature of Light:</strong><br>\n   Radiant energy (light) exhibits both wave-like and particle-like properties - this is called wave-particle duality.\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>1. Wave View of Radiant Energy:</strong>\n   <ul style='margin-top: 10px;'>\n     <li>Light behaves as electromagnetic waves</li>\n     <li>Characterized by wavelength (λ) and frequency (ν)</li>\n     <li>Relationship: \\(c = \\lambda\\nu\\) where c is the speed of light</li>\n     <li>Exhibits wave phenomena like diffraction, interference, and polarization</li>\n     <li>Demonstrated by Young's double-slit experiment</li>\n   </ul>\n   \n   <div style='background: rgba(0,0,0,0.03); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n     \\(c = \\lambda\\nu\\) (wave equation)\n   </div>\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>2. Particle View of Radiant Energy:</strong>\n   <ul style='margin-top: 10px;'>\n     <li>Light behaves as discrete packets of energy called <strong>photons</strong> or <strong>quanta</strong></li>\n     <li>Each photon carries a specific amount of energy</li>\n     <li>Energy is proportional to frequency (Planck's relation)</li>\n     <li>Exhibits particle phenomena like the photoelectric effect and Compton scattering</li>\n     <li>Demonstrated by Einstein's explanation of the photoelectric effect</li>\n   </ul>\n   \n   <div style='background: rgba(0,0,0,0.03); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n     \\(E = h\\nu = \\frac{hc}{\\lambda}\\) (Planck's relation)\n   </div>\n   <p style='text-align: center;'>where h = Planck's constant (\\(6.626 \\times 10^{-34}\\) J·s)</p>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>de Broglie's Contribution:</strong><br>\n   Louis de Broglie proposed that this duality applies to all matter, not just light:\n   <div style='background: rgba(0,0,0,0.03); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n     \\(\\lambda = \\frac{h}{p}\\) where p is momentum\n   </div>\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Wave view: \\(c = \\lambda\\nu\\). Particle view: \\(E = h\\nu\\).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Atomic Structure and Quantum Theory"
+    ],
+    "Question": {
+      "content": "Planck's quantum of energy and wavelength of a photon is given by what equation?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "E = hν = hc/λ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Planck's Quantum Relation</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Max Planck's Quantum Theory:</strong><br>\n   In 1900, Max Planck proposed that energy is not continuous but is emitted or absorbed in discrete packets called <strong>quanta</strong> or <strong>photons</strong>.\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>The Fundamental Equation:</strong>\n   \n   <div style='text-align: center; font-size: 1.5rem; margin: 20px 0;'>\n     \\(E = h\\nu\\)\n   </div>\n   \n   <p>Where:</p>\n   <ul>\n     <li><strong>E</strong> = Energy of one photon (in joules)</li>\n     <li><strong>h</strong> = Planck's constant (\\(6.626 \\times 10^{-34}\\) J·s)</li>\n     <li><strong>ν</strong> = Frequency of the radiation (in s⁻¹ or Hz)</li>\n   </ul>\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>Relating Energy to Wavelength:</strong><br>\n   Since frequency and wavelength are related by \\(c = \\lambda\\nu\\), we can also write:\n   \n   <div style='text-align: center; font-size: 1.3rem; margin: 20px 0;'>\n     \\(E = \\frac{hc}{\\lambda}\\)\n   </div>\n   \n   <p>Where:</p>\n   <ul>\n     <li><strong>c</strong> = Speed of light (\\(3.0 \\times 10^8\\) m/s)</li>\n     <li><strong>λ</strong> = Wavelength (in meters)</li>\n   </ul>\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>Combined Form:</strong>\n   \n   <div style='text-align: center; font-size: 1.5rem; margin: 20px 0;'>\n     \\(E = h\\nu = \\frac{hc}{\\lambda}\\)\n   </div>\n   \n   <p>This is the complete relation that connects the particle nature (energy E) with the wave nature (frequency ν and wavelength λ) of light.</p>\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> \\(E = h\\nu = \\frac{hc}{\\lambda}\\)\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Atomic Structure and Quantum Theory"
+    ],
+    "Question": {
+      "content": "The property of light that defines its intensity is what?",
+      "type": "OBJ",
+      "options": [
+        "Wavelength",
+        "Frequency",
+        "Amplitude",
+        "Velocity"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amplitude"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Properties of Light</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Light as a Wave:</strong><br>\n   When we treat light as a wave, it has several measurable properties:\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <table style='width: 100%; border-collapse: collapse;'>\n     <tr style='background: var(--strongColor); color: white;'>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Property</th>\n       <th style='padding: 8px; border: 1px solid #ddd;'>What it Determines</th>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Symbol</th>\n     </tr>\n     <tr>\n       <td style='padding: 8px; border: 1px solid #ddd;'><strong>Amplitude</strong></td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>Intensity/Brightness</td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>A</td>\n     </tr>\n     <tr style='background: rgba(0,0,0,0.02);'>\n       <td style='padding: 8px; border: 1px solid #ddd;'>Wavelength</td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>Color (in visible light)</td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>λ</td>\n     </tr>\n     <tr>\n       <td style='padding: 8px; border: 1px solid #ddd;'>Frequency</td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>Color/Energy</td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>ν</td>\n     </tr>\n     <tr style='background: rgba(0,0,0,0.02);'>\n       <td style='padding: 8px; border: 1px solid #ddd;'>Velocity</td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>Speed (constant in vacuum)</td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>c</td>\n     </tr>\n   </table>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Understanding Amplitude:</strong><br>\n   <ul>\n     <li>Amplitude is the maximum displacement of a wave from its equilibrium position</li>\n     <li>In light waves, amplitude corresponds to the strength of the electric and magnetic fields</li>\n     <li><strong>Higher amplitude = More intense (brighter) light</strong></li>\n     <li>Doubling the amplitude quadruples the intensity (intensity ∝ amplitude²)</li>\n   </ul>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Analogy:</strong><br>\n   Think of waves on water:\n   <ul>\n     <li>Amplitude = height of the wave (determines how powerful the wave is)</li>\n     <li>Wavelength = distance between wave peaks (determines the type of wave)</li>\n   </ul>\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> The property of light that defines its intensity is <strong>amplitude</strong>.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Atomic Structure and Quantum Theory"
+    ],
+    "Question": {
+      "content": "A double dumbbell shape is accredited to which type of orbital?",
+      "type": "OBJ",
+      "options": [
+        "s-orbital",
+        "p-orbital",
+        "d-orbital",
+        "f-orbital"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "d-orbital"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Shapes of Atomic Orbitals</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Atomic Orbital Shapes:</strong><br>\n   Different types of orbitals have characteristic shapes that come from solutions to the Schrödinger equation.\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <table style='width: 100%; border-collapse: collapse;'>\n     <tr style='background: var(--strongColor); color: white;'>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Orbital Type</th>\n       <th style='padding: 8px; border: 1px solid #ddd;'>l value</th>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Shape Description</th>\n     </tr>\n     <tr>\n       <td style='padding: 8px; border: 1px solid #ddd;'><strong>s-orbital</strong></td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>l = 0</td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>Spherical shape</td>\n     </tr>\n     <tr style='background: rgba(0,0,0,0.02);'>\n       <td style='padding: 8px; border: 1px solid #ddd;'><strong>p-orbital</strong></td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>l = 1</td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>Dumbbell shape (two lobes)</td>\n     </tr>\n     <tr>\n       <td style='padding: 8px; border: 1px solid #ddd;'><strong>d-orbital</strong></td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>l = 2</td>\n       <td style='padding: 8px; border: 1px solid #ddd;'><strong>Double dumbbell / Cloverleaf shape</strong> (four lobes), except dz² which has a different shape</td>\n     </tr>\n     <tr style='background: rgba(0,0,0,0.02);'>\n       <td style='padding: 8px; border: 1px solid #ddd;'><strong>f-orbital</strong></td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>l = 3</td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>Complex multi-lobed shapes</td>\n     </tr>\n   </table>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>The Five d-orbitals:</strong><br>\n   <ul>\n     <li><strong>dxy, dxz, dyz:</strong> Four-lobed cloverleaf shapes oriented between axes</li>\n     <li><strong>dx²-y²:</strong> Four-lobed cloverleaf shape oriented along axes</li>\n     <li><strong>dz²:</strong> Dumbbell with a doughnut (toroidal ring) - looks different but is still a d-orbital</li>\n   </ul>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Visual Memory Aid:</strong><br>\n   <ul>\n     <li>s = sphere (simple)</li>\n     <li>p = peanut (one dumbbell)</li>\n     <li>d = double peanut (two dumbbells crossed) / four-leaf clover</li>\n   </ul>\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> A double dumbbell shape is accredited to <strong>d-orbitals</strong>.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "Atomic Structure and Quantum Theory",
+      "Classical Physics"
+    ],
+    "Question": {
+      "content": "According to classical physics, why did electrons not collapse into the nucleus?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Classical physics predicted electrons would spiral into the nucleus due to energy loss from radiation, but they don't. Quantum mechanics later explained stability through quantized energy levels."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Atomic Stability Problem</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>The Classical Physics Prediction:</strong><br>\n   According to classical electromagnetic theory (Maxwell's equations):\n   <ul>\n     <li>An accelerating charged particle radiates energy</li>\n     <li>An electron orbiting a nucleus is constantly accelerating (changing direction)</li>\n     <li>Therefore, an orbiting electron should continuously lose energy as radiation</li>\n     <li>As it loses energy, it would spiral inward toward the nucleus</li>\n     <li>Calculations showed this collapse would happen in about <strong>10⁻¹¹ seconds</strong></li>\n   </ul>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>The Problem:</strong><br>\n   <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 10px 0;'>\n     <em>Atoms are stable! Electrons do NOT collapse into the nucleus. Classical physics could not explain this.</em>\n   </div>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>The Solution - Quantum Mechanics:</strong><br>\n   Niels Bohr (1913) and later quantum mechanics resolved this paradox:\n   \n   <ul style='margin-top: 10px;'>\n     <li><strong>Quantized energy levels:</strong> Electrons can only exist in specific, allowed orbits with fixed energies</li>\n     <li><strong>Stationary states:</strong> Electrons in these allowed orbits do NOT radiate energy, despite accelerating</li>\n     <li><strong>Quantum jumps:</strong> Electrons only emit or absorb energy when jumping between allowed levels</li>\n     <li><strong>Wave-particle duality:</strong> Electrons are not tiny particles orbiting like planets, but have wave-like nature described by wavefunctions</li>\n   </ul>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Heisenberg's Uncertainty Principle:</strong><br>\n   Also contributes: if an electron were confined to the nucleus, its momentum would be enormous - it's \"uncertain\" where the electron actually is.\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Classical physics couldn't explain atomic stability - it predicted electron collapse. Quantum mechanics resolved this with quantized energy levels where electrons don't radiate.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14i",
+    "topic": [
+      "Atomic Models",
+      "History of Chemistry"
+    ],
+    "Question": {
+      "content": "What is one major contribution of J.J. Thompson to the development of the atomic model?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Discovery of the electron and proposal of the 'plum pudding' model"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>J.J. Thompson's Contributions</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Who was J.J. Thompson?</strong><br>\n   Sir Joseph John Thompson (1856-1940) was a British physicist who revolutionized our understanding of the atom.\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>1. Discovery of the Electron (1897)</strong>\n   <ul>\n     <li>Conducted cathode ray tube experiments</li>\n     <li>Showed that cathode rays were composed of negatively charged particles</li>\n     <li>Measured the charge-to-mass ratio (e/m) of these particles</li>\n     <li>Discovered that these particles were much smaller than atoms</li>\n     <li>Called them \"corpuscles\" - later named \"electrons\"</li>\n     <li>This proved that atoms are divisible and contain smaller particles</li>\n   </ul>\n   \n   <div style='background: rgba(0,0,0,0.03); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n     Electrons are negatively charged subatomic particles\n   </div>\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>2. The \"Plum Pudding\" Model (1904)</strong>\n   <ul>\n     <li>Proposed the first model of the atom's internal structure</li>\n     <li>Envisioned the atom as a sphere of positive charge</li>\n     <li>Negatively charged electrons were embedded within like plums in a pudding</li>\n     <li>Also called the \"blueberry muffin\" model</li>\n     <li>Explained overall electrical neutrality of atoms</li>\n   </ul>\n   \n   <div style='background: rgba(0,0,0,0.03); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n     Positive sphere with embedded electrons\n   </div>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Legacy:</strong><br>\n   Thompson won the Nobel Prize in Physics in 1906. His work paved the way for later models by Rutherford, Bohr, and others. The plum pudding model was later disproved by Rutherford's gold foil experiment.\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> J.J. Thompson discovered the electron and proposed the \"plum pudding\" model of the atom.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14ii",
+    "topic": [
+      "Atomic Models",
+      "History of Chemistry"
+    ],
+    "Question": {
+      "content": "What is one major contribution of R. Millikan to the development of the atomic model?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Oil drop experiment to determine the charge of the electron"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Robert Millikan's Contribution</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Who was Robert Millikan?</strong><br>\n   Robert Andrews Millikan (1868-1953) was an American physicist who made precise measurements of the electron's charge.\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>The Oil Drop Experiment (1909)</strong>\n   \n   <p><strong>Experimental Setup:</strong></p>\n   <ul>\n     <li>Fine oil droplets were sprayed into a chamber</li>\n     <li>Droplets fell under gravity between two charged plates</li>\n     <li>X-rays were used to give the droplets a charge</li>\n     <li>By adjusting the voltage, droplets could be suspended motionless</li>\n     <li>Millikan measured the terminal velocity and balancing voltage</li>\n   </ul>\n   \n   <p><strong>What He Discovered:</strong></p>\n   <ul>\n     <li>All charges on the droplets were multiples of a fundamental unit</li>\n     <li>This fundamental unit was the charge of a single electron</li>\n     <li>He calculated <strong>e = 1.592 × 10⁻¹⁹ C</strong> (very close to modern value 1.602 × 10⁻¹⁹ C)</li>\n   </ul>\n   \n   <div style='background: rgba(0,0,0,0.03); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n     Charge of electron (e) = \\(1.602 \\times 10^{-19}\\) C\n   </div>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Why This Was Important:</strong><br>\n   <ul>\n     <li>J.J. Thompson had discovered the electron and measured its charge-to-mass ratio (e/m)</li>\n     <li>Millikan's measurement of e alone allowed calculation of the electron's mass</li>\n     <li>Electron mass = \\(\\frac{e}{(e/m)} = 9.1 \\times 10^{-31}\\) kg</li>\n     <li>Confirmed that electrons are indeed fundamental particles with quantized charge</li>\n     <li>Provided experimental proof that electric charge comes in discrete units</li>\n   </ul>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Recognition:</strong><br>\n   Millikan won the Nobel Prize in Physics in 1923 for this work.\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> R. Millikan determined the charge of the electron through his famous oil drop experiment.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Chemical Bonding",
+      "Valence Bond Theory",
+      "Hybridization"
+    ],
+    "Question": {
+      "content": "According to valence bond theory, what is the hybridization type and structure of ethane?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hybridization: sp³. Structure: Tetrahedral around each carbon."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ethane (C₂H₆) - Hybridization and Structure</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>What is Ethane?</strong><br>\n   Ethane is the simplest hydrocarbon containing a carbon-carbon single bond, with molecular formula C₂H₆.\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>Step 1: Determine the hybridization</strong>\n   \n   <p>Each carbon atom in ethane is bonded to:</p>\n   <ul>\n     <li>3 hydrogen atoms</li>\n     <li>1 other carbon atom</li>\n   </ul>\n   \n   <p>Total bonds per carbon = 4 sigma (σ) bonds</p>\n   \n   <p>For 4 sigma bonds, carbon must use <strong>sp³ hybridization</strong>:</p>\n   <ul>\n     <li>One s orbital + three p orbitals hybridize</li>\n     <li>Forms four equivalent sp³ hybrid orbitals</li>\n     <li>Each sp³ orbital has 25% s-character and 75% p-character</li>\n   </ul>\n   \n   <div style='background: rgba(0,0,0,0.03); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n     Hybridization: <strong>sp³</strong>\n   </div>\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>Step 2: Determine the structure</strong>\n   \n   <p>sp³ hybrid orbitals arrange themselves to minimize electron pair repulsion:</p>\n   <ul>\n     <li>They point toward the corners of a <strong>tetrahedron</strong></li>\n     <li>Bond angle = <strong>109.5°</strong></li>\n     <li>Each carbon is at the center of a tetrahedron</li>\n     <li>The H-C-H and H-C-C bond angles are all approximately 109.5°</li>\n   </ul>\n   \n   <div style='background: rgba(0,0,0,0.03); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n     Structure: <strong>Tetrahedral around each carbon</strong>\n   </div>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Bond Formation:</strong><br>\n   <ul>\n     <li>C-C bond: Overlap of one sp³ orbital from each carbon (sigma bond)</li>\n     <li>C-H bonds: Overlap of carbon sp³ orbitals with hydrogen 1s orbitals</li>\n     <li>All bonds in ethane are single (sigma) bonds</li>\n   </ul>\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Ethane has sp³ hybridization and tetrahedral structure around each carbon atom.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": [
+      "Periodic Table",
+      "Scandium",
+      "Classification"
+    ],
+    "Question": {
+      "content": "Using the American Chemical Society classification, Scandium (Sc) belongs to which group and which period?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Group: 3, Period: 4"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Scandium (Sc) - Position in Periodic Table</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>About Scandium:</strong><br>\n   Scandium is a chemical element with symbol Sc and atomic number 21. It is a silvery-white metallic d-block element.\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>Electronic Configuration:</strong>\n   \n   <div style='text-align: center; font-size: 1.2rem; margin: 15px 0;'>\n     Sc: \\(1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^1\\)\n   </div>\n   \n   <div style='text-align: center; font-size: 1.1rem; margin: 10px 0;'>\n     or [Ar] \\(4s^2 3d^1\\)\n   </div>\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>Determining Group and Period:</strong>\n   \n   <p><strong>Period:</strong> The highest principal quantum number (n) containing electrons is 4 (from 4s²), so Scandium is in <strong>Period 4</strong>.</p>\n   \n   <p><strong>Group:</strong> In the American Chemical Society (ACS) / IUPAC system:</p>\n   <ul>\n     <li>Scandium is the first element in the transition series</li>\n     <li>It has 3 valence electrons (2 in 4s + 1 in 3d)</li>\n     <li>It belongs to <strong>Group 3</strong></li>\n     <li>Group 3 also includes Yttrium (Y), Lanthanum (La), and Actinium (Ac)</li>\n   </ul>\n   \n   <div style='background: rgba(0,0,0,0.03); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n     <strong>Group 3, Period 4</strong>\n   </div>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Properties of Scandium:</strong><br>\n   <ul>\n     <li>It is the first transition metal in the fourth period</li>\n     <li>Exhibits +3 oxidation state almost exclusively</li>\n     <li>Compounds are generally colorless (no d-d transitions due to d⁰ configuration in Sc³⁺)</li>\n     <li>Used in aluminum alloys for aerospace components</li>\n   </ul>\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Scandium (Sc) belongs to Group 3 and Period 4.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": [
+      "Chemical Bonding",
+      "Ionic Bond"
+    ],
+    "Question": {
+      "content": "What is the bond type in calcium chloride (CaCl₂)?",
+      "type": "OBJ",
+      "options": [
+        "Covalent",
+        "Ionic",
+        "Metallic",
+        "Hydrogen bonding"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ionic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Bond Type in Calcium Chloride (CaCl₂)</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>What is Calcium Chloride?</strong><br>\n   Calcium chloride is an inorganic compound with the formula CaCl₂. It is a white crystalline solid at room temperature and highly soluble in water.\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>Step 1: Identify the elements</strong>\n   \n   <ul>\n     <li><strong>Calcium (Ca):</strong> Group 2 (alkaline earth metal)</li>\n     <li><strong>Chlorine (Cl):</strong> Group 17 (halogen, non-metal)</li>\n   </ul>\n   \n   <p>Metal + Non-metal generally indicates ionic bonding.</p>\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>Step 2: Electron transfer</strong>\n   \n   <p><strong>Calcium (atomic number 20):</strong> [Ar] 4s²</p>\n   <ul>\n     <li>Has 2 valence electrons</li>\n     <li>Low ionization energy - easily loses 2 electrons</li>\n     <li>Forms Ca²⁺ ion with stable argon configuration</li>\n   </ul>\n   \n   <p><strong>Chlorine (atomic number 17):</strong> [Ne] 3s² 3p⁵</p>\n   <ul>\n     <li>Has 7 valence electrons</li>\n     <li>High electron affinity - easily gains 1 electron</li>\n     <li>Forms Cl⁻ ion with stable argon configuration</li>\n   </ul>\n   \n   <div style='background: rgba(0,0,0,0.03); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n     \\(Ca \\rightarrow Ca^{2+} + 2e^-\\)<br>\n     \\(2Cl + 2e^- \\rightarrow 2Cl^-\\)\n   </div>\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>Step 3: Ionic bond formation</strong>\n   \n   <p>The electrostatic attraction between:</p>\n   <ul>\n     <li>Positively charged calcium ions (Ca²⁺)</li>\n     <li>Negatively charged chloride ions (Cl⁻)</li>\n   </ul>\n   <p>Results in the formation of an <strong>ionic bond</strong>.</p>\n   \n   <div style='background: rgba(0,0,0,0.03); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n     \\(Ca^{2+} + 2Cl^- \\rightarrow CaCl_2\\)\n   </div>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Evidence of Ionic Character:</strong><br>\n   <ul>\n     <li>High melting point (772°C)</li>\n     <li>Conducts electricity when molten or in aqueous solution</li>\n     <li>Soluble in polar solvents like water</li>\n     <li>Forms a crystalline lattice structure</li>\n   </ul>\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Calcium chloride (CaCl₂) has <strong>ionic bonding</strong>.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": [
+      "Electronic Configuration",
+      "Bromine"
+    ],
+    "Question": {
+      "content": "Write the complete electronic configuration of Bromine (Br).",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁵"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Electronic Configuration of Bromine (Br)</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>About Bromine:</strong><br>\n   Bromine is a chemical element with symbol Br and atomic number 35. It is a reddish-brown liquid halogen at room temperature.\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>Step-by-Step Filling (Aufbau Principle):</strong>\n   \n   <table style='width: 100%; border-collapse: collapse; margin-top: 10px;'>\n     <tr style='background: var(--strongColor); color: white;'>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Order</th>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Subshell</th>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Electrons Added</th>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Running Total</th>\n     </tr>\n     <tr><td>1</td><td>1s²</td><td>2</td><td>2</td></tr>\n     <tr style='background: rgba(0,0,0,0.02);'><td>2</td><td>2s²</td><td>2</td><td>4</td></tr>\n     <tr><td>3</td><td>2p⁶</td><td>6</td><td>10</td></tr>\n     <tr style='background: rgba(0,0,0,0.02);'><td>4</td><td>3s²</td><td>2</td><td>12</td></tr>\n     <tr><td>5</td><td>3p⁶</td><td>6</td><td>18</td></tr>\n     <tr style='background: rgba(0,0,0,0.02);'><td>6</td><td>4s²</td><td>2</td><td>20</td></tr>\n     <tr><td>7</td><td>3d¹⁰</td><td>10</td><td>30</td></tr>\n     <tr style='background: rgba(0,0,0,0.02);'><td>8</td><td>4p⁵</td><td>5</td><td>35</td></tr>\n   </table>\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>Complete Electronic Configuration:</strong>\n   \n   <div style='text-align: center; font-size: 1.3rem; margin: 20px 0;'>\n     \\(1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^{10} 4p^5\\)\n   </div>\n   \n   <p><strong>Noble Gas Notation (shorter form):</strong></p>\n   <div style='text-align: center; font-size: 1.2rem; margin: 10px 0;'>\n     [Ar] \\(4s^2 3d^{10} 4p^5\\)\n   </div>\n   <p>where [Ar] represents the configuration of argon: \\(1s^2 2s^2 2p^6 3s^2 3p^6\\)</p>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Valence Electrons:</strong><br>\n   Bromine has 7 valence electrons (2 in 4s and 5 in 4p), which is why it is in Group 17 (halogens) and typically forms a -1 oxidation state.\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> \\(1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^{10} 4p^5\\)\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "Atomic Structure and Quantum Theory",
+      "Wave-Particle Duality"
+    ],
+    "Question": {
+      "content": "The observations of what two phenomena formed the basis of the wave-particle duality principle?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Photoelectric effect (particle nature) and Diffraction/Interference (wave nature)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Wave-Particle Duality</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>What is Wave-Particle Duality?</strong><br>\n   Wave-particle duality is the concept that every quantum entity (like light and electrons) exhibits both wave-like and particle-like properties, depending on how it is observed.\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>1. Evidence for Particle Nature - The Photoelectric Effect</strong>\n   \n   <p><strong>Experiment:</strong> When light shines on a metal surface, electrons are emitted.</p>\n   \n   <p><strong>Key Observations (Einstein, 1905):</strong></p>\n   <ul>\n     <li>Electrons are emitted only if light frequency exceeds a threshold</li>\n     <li>Increasing light intensity does NOT increase electron energy, only number</li>\n     <li>There is no time lag - emission is instantaneous</li>\n   </ul>\n   \n   <p><strong>Conclusion:</strong> Light must consist of discrete packets of energy called <strong>photons</strong> (particle nature). Energy of each photon = hν.</p>\n   \n   <div style='background: rgba(0,0,0,0.03); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n     \\(E = h\\nu\\) (Planck-Einstein relation)\n   </div>\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>2. Evidence for Wave Nature - Diffraction and Interference</strong>\n   \n   <p><strong>Experiment:</strong> Young's double-slit experiment (1801)</p>\n   \n   <p><strong>Key Observations:</strong></p>\n   <ul>\n     <li>Light passing through two narrow slits creates an interference pattern</li>\n     <li>Alternating bright and dark bands appear on a screen</li>\n     <li>This pattern can only be explained by waves interfering constructively and destructively</li>\n     <li>Particles would create only two bright bands, not multiple bands</li>\n   </ul>\n   \n   <p><strong>Conclusion:</strong> Light must behave as <strong>waves</strong> to produce interference patterns.</p>\n   \n   <div style='background: rgba(0,0,0,0.03); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n     \\(c = \\lambda\\nu\\) (wave equation)\n   </div>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>de Broglie's Synthesis (1924):</strong><br>\n   Louis de Broglie proposed that if light (waves) can behave as particles, then particles (like electrons) should also behave as waves:\n   \n   <div style='background: rgba(0,0,0,0.03); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n     \\(\\lambda = \\frac{h}{p}\\) (de Broglie wavelength)\n   </div>\n   \n   <p>This was later confirmed experimentally by electron diffraction.</p>\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Wave-particle duality is based on the photoelectric effect (particle nature) and diffraction/interference (wave nature).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "Periodic Table",
+      "Periods",
+      "Elements"
+    ],
+    "Question": {
+      "content": "The 6th period of the modern periodic table contains how many elements?",
+      "type": "OBJ",
+      "options": [
+        "18",
+        "32",
+        "8",
+        "50"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "32"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The 6th Period of the Periodic Table</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Overview of Periods:</strong><br>\n   Periods are the horizontal rows in the periodic table. The length of each period varies based on how many electrons can fill the subshells.\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>Period Lengths:</strong>\n   \n   <table style='width: 100%; border-collapse: collapse; margin-top: 10px;'>\n     <tr style='background: var(--strongColor); color: white;'>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Period</th>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Elements</th>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Number of Elements</th>\n     </tr>\n     <tr><td>1</td><td>H - He</td><td>2</td></tr>\n     <tr style='background: rgba(0,0,0,0.02);'><td>2</td><td>Li - Ne</td><td>8</td></tr>\n     <tr><td>3</td><td>Na - Ar</td><td>8</td></tr>\n     <tr style='background: rgba(0,0,0,0.02);'><td>4</td><td>K - Kr</td><td>18</td></tr>\n     <tr><td>5</td><td>Rb - Xe</td><td>18</td></tr>\n     <tr style='background: rgba(0,0,0,0.02);'><td><strong>6</strong></td><td><strong>Cs - Rn</strong></td><td><strong>32</strong></td></tr>\n     <tr><td>7</td><td>Fr - Og</td><td>32 (incomplete)</td></tr>\n   </table>\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>Why 32 Elements in Period 6?</strong>\n   \n   <p>Period 6 includes the filling of:</p>\n   <ul>\n     <li><strong>6s subshell:</strong> 2 elements (Cs, Ba)</li>\n     <li><strong>4f subshell (lanthanides):</strong> 14 elements (La/Ce to Lu)</li>\n     <li><strong>5d subshell:</strong> 10 elements (La to Hg, including Hf)</li>\n     <li><strong>6p subshell:</strong> 6 elements (Tl to Rn)</li>\n   </ul>\n   \n   <p>Total = 2 + 14 + 10 + 6 = <strong>32 elements</strong></p>\n   \n   <p>Period 6 starts with Cesium (Cs, atomic number 55) and ends with Radon (Rn, atomic number 86).</p>\n   \n   <div style='background: rgba(0,0,0,0.03); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n     Cs (55) through Rn (86) = 86 - 55 + 1 = <strong>32 elements</strong>\n   </div>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Note:</strong><br>\n   Period 6 includes the <strong>lanthanide series</strong> (14 elements from Cerium to Lutetium), which are usually placed below the main table to keep it compact.\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> The 6th period contains <strong>32 elements</strong>.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": [
+      "Periodic Law",
+      "History of Chemistry"
+    ],
+    "Question": {
+      "content": "What formed the basis of the periodic law?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Atomic number (modern) or atomic mass (Mendeleev's original)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Periodic Law</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>What is the Periodic Law?</strong><br>\n   The periodic law states that the physical and chemical properties of elements are periodic functions of their atomic numbers (modern version).\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>1. Mendeleev's Original Periodic Law (1869)</strong>\n   \n   <p>Dmitri Mendeleev arranged elements in order of increasing <strong>atomic mass</strong> and noticed that properties repeated periodically.</p>\n   \n   <ul>\n     <li>Based on atomic mass</li>\n     <li>Left gaps for undiscovered elements</li>\n     <li>Predicted properties of missing elements (e.g., gallium, germanium)</li>\n     <li>Had to place some elements out of mass order to keep similar properties together (e.g., tellurium and iodine)</li>\n   </ul>\n   \n   <div style='background: rgba(0,0,0,0.03); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n     Properties are a periodic function of <strong>atomic mass</strong> (Mendeleev)\n   </div>\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>2. Modern Periodic Law (Moseley, 1913)</strong>\n   \n   <p>Henry Moseley used X-ray spectroscopy to determine the <strong>atomic number</strong> (nuclear charge) of elements.</p>\n   \n   <ul>\n     <li>Found that frequency of X-rays emitted correlated with atomic number, not atomic mass</li>\n     <li>Proposed that elements should be arranged by atomic number</li>\n     <li>Resolved the tellurium-iodine anomaly (Te has higher mass but lower atomic number than I)</li>\n   </ul>\n   \n   <div style='background: rgba(0,0,0,0.03); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n     Properties are a periodic function of <strong>atomic number</strong> (Modern)\n   </div>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Why Atomic Number is Fundamental:</strong><br>\n   <ul>\n     <li>Atomic number = number of protons = nuclear charge</li>\n     <li>Electron configuration (which determines chemical properties) depends on nuclear charge</li>\n     <li>Atomic mass can vary with isotopes, but atomic number is invariant</li>\n   </ul>\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> The periodic law is based on atomic number (modern) or atomic mass (Mendeleev's original).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": [
+      "Periodic Table",
+      "Alkaline Earth Metals"
+    ],
+    "Question": {
+      "content": "Group two elements will burn in air to form what type of compounds?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Metal oxides (MO)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Reaction of Group II Elements with Air</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Group II Elements (Alkaline Earth Metals):</strong><br>\n   Beryllium (Be), Magnesium (Mg), Calcium (Ca), Strontium (Sr), Barium (Ba), Radium (Ra)\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>Reaction with Oxygen:</strong>\n   \n   <p>When heated in air (which contains about 21% oxygen), group II metals burn vigorously to form metal oxides:</p>\n   \n   <div style='text-align: center; font-size: 1.3rem; margin: 15px 0;'>\n     \\(2M + O_2 \\rightarrow 2MO\\)\n   </div>\n   \n   <p>Where M represents the group II metal and MO is the metal oxide.</p>\n   \n   <p><strong>Examples:</strong></p>\n   <ul>\n     <li>Magnesium: \\(2Mg + O_2 \\rightarrow 2MgO\\) (magnesium oxide - white powder)</li>\n     <li>Calcium: \\(2Ca + O_2 \\rightarrow 2CaO\\) (calcium oxide - quicklime)</li>\n     <li>Barium: \\(2Ba + O_2 \\rightarrow 2BaO\\) (barium oxide)</li>\n   </ul>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Note about Beryllium:</strong><br>\n   Beryllium is an exception - it forms a thin, protective oxide layer (BeO) that prevents further reaction, similar to aluminum.\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Group two elements burn in air to form metal oxides (MO).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": [
+      "Periodic Table",
+      "Alkaline Earth Metals"
+    ],
+    "Question": {
+      "content": "Group two elements dissolve in water to form what type of compounds?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Metal hydroxides M(OH)₂"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Group II Elements Reacting with Water</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>The Reaction:</strong><br>\n   Group II metals (or their oxides) react with water to form metal hydroxides. These are alkaline (basic) solutions, which is why they're called \"alkaline earth metals\".\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>Case 1: Metals reacting directly with water</strong>\n   \n   <div style='text-align: center; font-size: 1.2rem; margin: 15px 0;'>\n     \\(M + 2H_2O \\rightarrow M(OH)_2 + H_2\\)\n   </div>\n   \n   <p>Example with calcium:</p>\n   <div style='text-align: center; font-size: 1.1rem; margin: 10px 0;'>\n     \\(Ca + 2H_2O \\rightarrow Ca(OH)_2 + H_2\\)\n   </div>\n   <p>Calcium hydroxide (limewater) is produced along with hydrogen gas.</p>\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>Case 2: Metal oxides reacting with water</strong>\n   \n   <div style='text-align: center; font-size: 1.2rem; margin: 15px 0;'>\n     \\(MO + H_2O \\rightarrow M(OH)_2\\)\n   </div>\n   \n   <p>Example with calcium oxide (quicklime):</p>\n   <div style='text-align: center; font-size: 1.1rem; margin: 10px 0;'>\n     \\(CaO + H_2O \\rightarrow Ca(OH)_2\\)\n   </div>\n   <p>This reaction is called \"slaking of lime\" and produces a lot of heat.</p>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Trend in Reactivity:</strong><br>\n   Reactivity with water increases down the group:\n   <ul>\n     <li><strong>Be:</strong> No reaction with water (protected by oxide layer)</li>\n     <li><strong>Mg:</strong> Reacts slowly with hot water/steam</li>\n     <li><strong>Ca, Sr, Ba:</strong> React vigorously even with cold water</li>\n   </ul>\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Group two elements dissolve in water to form metal hydroxides M(OH)₂.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": [
+      "Water Hardness",
+      "Inorganic Chemistry"
+    ],
+    "Question": {
+      "content": "Permanent hardness of water can be caused by what two types of compounds?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Chlorides (CaCl₂, MgCl₂) and sulfates (CaSO₄, MgSO₄) of calcium and magnesium"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Causes of Permanent Hardness</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>What is Permanent Hardness?</strong><br>\n   Permanent hardness is a type of water hardness that cannot be removed by simply boiling the water. It is caused by dissolved minerals that remain in water even when heated.\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>The Main Causes:</strong><br>\n   \n   <p>Permanent hardness is caused by the presence of:</p>\n   \n   <table style='width: 100%; border-collapse: collapse; margin-top: 10px;'>\n     <tr style='background: var(--strongColor); color: white;'>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Compound Type</th>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Examples</th>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Formula</th>\n     </tr>\n     <tr>\n       <td style='padding: 8px; border: 1px solid #ddd;'><strong>Chlorides</strong></td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>Calcium chloride<br>Magnesium chloride</td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>CaCl₂<br>MgCl₂</td>\n     </tr>\n     <tr style='background: rgba(0,0,0,0.02);'>\n       <td style='padding: 8px; border: 1px solid #ddd;'><strong>Sulfates</strong></td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>Calcium sulfate<br>Magnesium sulfate</td>\n       <td style='padding: 8px; border: 1px solid #ddd;'>CaSO₄ (gypsum)<br>MgSO₄ (Epsom salt)</td>\n     </tr>\n   </table>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Why These Cause Hardness:</strong><br>\n   These compounds dissolve in water to form Ca²⁺ and Mg²⁺ ions. These ions react with soap to form insoluble scum, preventing lathering and causing the \"hard\" water effect.\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Difference from Temporary Hardness:</strong><br>\n   Temporary hardness is caused by calcium and magnesium <strong>bicarbonates</strong> Ca(HCO₃)₂ and Mg(HCO₃)₂, which decompose when boiled. Permanent hardness compounds do not decompose on heating.\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Permanent hardness is caused by chlorides (CaCl₂, MgCl₂) and sulfates (CaSO₄, MgSO₄) of calcium and magnesium.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": [
+      "Water Hardness",
+      "Water Treatment"
+    ],
+    "Question": {
+      "content": "Permanent hardness of water can be removed by what method?",
+      "type": "OBJ",
+      "options": [
+        "Boiling",
+        "Adding washing soda (sodium carbonate)",
+        "Filtration",
+        "Distillation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Adding washing soda (sodium carbonate)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Removing Permanent Hardness</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Why Boiling Doesn't Work:</strong><br>\n   Unlike temporary hardness (caused by bicarbonates), permanent hardness compounds (chlorides and sulfates) do not decompose when boiled. So boiling alone will not soften permanently hard water.\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>The Washing Soda Method:</strong><br>\n   \n   <p>Adding <strong>washing soda (sodium carbonate, Na₂CO₃)</strong> removes permanent hardness by precipitation. The carbonate ions react with calcium and magnesium ions to form insoluble carbonates that precipitate out.</p>\n   \n   <div style='background: rgba(0,0,0,0.03); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n     <p><strong>For calcium sulfate:</strong></p>\n     <div style='text-align: center; margin: 10px 0;'>\n       \\(CaSO_4 + Na_2CO_3 \\rightarrow CaCO_3\\downarrow + Na_2SO_4\\)\n     </div>\n     \n     <p><strong>For calcium chloride:</strong></p>\n     <div style='text-align: center; margin: 10px 0;'>\n       \\(CaCl_2 + Na_2CO_3 \\rightarrow CaCO_3\\downarrow + 2NaCl\\)\n     </div>\n     \n     <p><strong>For magnesium sulfate:</strong></p>\n     <div style='text-align: center; margin: 10px 0;'>\n       \\(MgSO_4 + Na_2CO_3 \\rightarrow MgCO_3\\downarrow + Na_2SO_4\\)\n     </div>\n   </div>\n   \n   <p>The calcium carbonate (CaCO₃) and magnesium carbonate (MgCO₃) precipitates can be removed by filtration or settling.</p>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Other Methods to Remove Permanent Hardness:</strong><br>\n   <ul>\n     <li><strong>Ion exchange method:</strong> Using zeolites or ion exchange resins that swap Ca²⁺ and Mg²⁺ for Na⁺ or H⁺</li>\n     <li><strong>Distillation:</strong> Boiling water and collecting the steam leaves dissolved solids behind</li>\n     <li><strong>Reverse osmosis:</strong> Forcing water through a semi-permeable membrane</li>\n   </ul>\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Permanent hardness can be removed by adding washing soda (sodium carbonate, Na₂CO₃).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+     "heading": "section B "
+  },
+  {
+  "type": "Question",
+  "name": "Question 1(i)",
+  "topic": [
+    "Molecular Orbital Theory",
+    "Chemical Bonding",
+    "Periodic Table"
+  ],
+  "Question": {
+    "content": "predict the existence of Li, Be2 molecular orbital theory",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Li₂ exists (bond order 1), Be₂ does not exist (bond order 0)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Predicting Existence of Li and Be₂ Using MO Theory</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Molecular Orbital Theory Basics:</strong><br>\n   MO theory predicts whether a molecule can exist by calculating its <strong>bond order</strong>:\n   \n   <div style='background: rgba(0,0,0,0.03); padding: 10px; border-radius: 5px; margin: 15px 0; text-align: center; font-size: 1.2rem;'>\n     Bond Order = ½ (Number of bonding e⁻ – Number of antibonding e⁻)\n   </div>\n   \n   <ul>\n     <li>Bond order > 0 → molecule <strong>exists</strong> (stable)</li>\n     <li>Bond order = 0 → molecule <strong>does not exist</strong> (unstable)</li>\n     <li>Higher bond order means stronger, more stable bond</li>\n   </ul>\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>1. Lithium Molecule (Li₂)</strong>\n   \n   <p><strong>Atomic configuration:</strong> Li (Z=3) = 1s² 2s¹</p>\n   <p><strong>Molecular orbital diagram for Li₂:</strong> Only valence electrons (2s) participate in bonding. The two 2s orbitals combine to form:</p>\n   <ul>\n     <li>σ2s (bonding orbital) - lower energy</li>\n     <li>σ*2s (antibonding orbital) - higher energy</li>\n   </ul>\n   \n   <p><strong>Electron configuration of Li₂:</strong> Two valence electrons (one from each Li atom) fill the lower energy bonding orbital:</p>\n   <div style='background: rgba(0,0,0,0.03); padding: 8px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n     Li₂ = (σ2s)²\n   </div>\n   \n   <p><strong>Bond order calculation:</strong></p>\n   <ul>\n     <li>Bonding electrons = 2</li>\n     <li>Antibonding electrons = 0</li>\n   </ul>\n   <div style='background: rgba(0,0,0,0.03); padding: 8px; border-radius: 5px; margin: 10px 0; text-align: center; font-size: 1.2rem;'>\n     Bond Order = (2 - 0)/2 = <strong>1</strong>\n   </div>\n   \n   <p><strong>Conclusion:</strong> Bond order of 1 means Li₂ has a stable single bond. Li₂ molecules <strong>do exist</strong> in lithium vapor.</p>\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>2. Beryllium Molecule (Be₂)</strong>\n   \n   <p><strong>Atomic configuration:</strong> Be (Z=4) = 1s² 2s²</p>\n   <p><strong>Molecular orbital diagram for Be₂:</strong> Four valence electrons (two from each Be atom) fill the molecular orbitals:</p>\n   <ul>\n     <li>First two electrons fill σ2s (bonding)</li>\n     <li>Next two electrons fill σ*2s (antibonding)</li>\n   </ul>\n   \n   <p><strong>Electron configuration of Be₂:</strong></p>\n   <div style='background: rgba(0,0,0,0.03); padding: 8px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n     Be₂ = (σ2s)² (σ*2s)²\n   </div>\n   \n   <p><strong>Bond order calculation:</strong></p>\n   <ul>\n     <li>Bonding electrons = 2 (in σ2s)</li>\n     <li>Antibonding electrons = 2 (in σ*2s)</li>\n   </ul>\n   <div style='background: rgba(0,0,0,0.03); padding: 8px; border-radius: 5px; margin: 10px 0; text-align: center; font-size: 1.2rem;'>\n     Bond Order = (2 - 2)/2 = <strong>0</strong>\n   </div>\n   \n   <p><strong>Conclusion:</strong> Bond order of 0 means there is no net bonding interaction. Be₂ <strong>does not exist</strong> as a stable molecule.</p>\n   \n   <div style='background: var(--infoBg); padding: 10px; border-radius: 5px; margin-top: 10px;'>\n     <strong>Note:</strong> The 1s core electrons (which would give σ1s² σ*1s²) cancel each other out (bonding and antibonding both filled), so they contribute nothing to the bond order.\n   </div>\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Prediction:</strong> Li₂ exists (bond order 1). Be₂ does not exist (bond order 0).\n </div>\n</div>"
+  }
+ },
+  {
+    "type": "Question",
+    "name": "Question 1(ii)",
+    "topic": [
+      "Periodic Table",
+      "Electronegativity"
+    ],
+    "Question": {
+      "content": "Arrange the following atoms in the order of increasing electronegativity: Ba, Na, K, C, S, N, F",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ba < K < Na < C < S < N < F"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Electronegativity Order</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Electronegativity Trend:</strong><br>\n   Electronegativity increases from left to right across a period and decreases down a group.\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <table style='width: 100%; border-collapse: collapse;'>\n     <tr style='background: var(--strongColor); color: white;'>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Element</th>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Group</th>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Period</th>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Electronegativity</th>\n     </tr>\n     <tr><td>Ba</td><td>2</td><td>6</td><td>0.89</td></tr>\n     <tr style='background: rgba(0,0,0,0.02);'><td>K</td><td>1</td><td>4</td><td>0.82</td></tr>\n     <tr><td>Na</td><td>1</td><td>3</td><td>0.93</td></tr>\n     <tr style='background: rgba(0,0,0,0.02);'><td>C</td><td>14</td><td>2</td><td>2.55</td></tr>\n     <tr><td>S</td><td>16</td><td>3</td><td>2.58</td></tr>\n     <tr style='background: rgba(0,0,0,0.02);'><td>N</td><td>15</td><td>2</td><td>3.04</td></tr>\n     <tr><td>F</td><td>17</td><td>2</td><td>3.98</td></tr>\n   </table>\n </div>\n\n <div style='text-align: center; font-size: 1.2rem; margin: 20px 0;'>\n   <strong>Ba < K < Na < C < S < N < F</strong>\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Ba < K < Na < C < S < N < F\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2(i)",
+    "topic": [
+      "Atomic Structure and Quantum Theory"
+    ],
+    "Question": {
+      "content": "Calculate the wavelength of a radiation whose frequency is \\(1.8 \\times 10^3 \\, \\text{s}^{-1}\\). (Given: velocity of light \\(c = 3.0 \\times 10^8 \\, \\text{m/s}\\))",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(1.67 \\times 10^5 \\, \\text{m}\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Wavelength Calculation</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Step 1: Recall the wave equation</strong><br>\n   \\(c = \\lambda\\nu\\) where c = speed of light, λ = wavelength, ν = frequency\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Step 2: Rearrange to solve for wavelength</strong><br>\n   \\(\\lambda = \\frac{c}{\\nu}\\)\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Step 3: Substitute values</strong><br>\n   \\(\\lambda = \\frac{3.0 \\times 10^8 \\, \\text{m/s}}{1.8 \\times 10^3 \\, \\text{s}^{-1}}\\)\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Step 4: Calculate</strong><br>\n   \\(\\frac{3.0}{1.8} = 1.666...\\) and \\(\\frac{10^8}{10^3} = 10^5\\)\n   \n   <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0; text-align: center; font-size: 1.3rem;'>\n     \\(\\lambda = 1.67 \\times 10^5 \\, \\text{m}\\)\n   </div>\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> \\(1.67 \\times 10^5 \\, \\text{m}\\)\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2(ii)",
+    "topic": [
+      "Atomic Structure and Quantum Theory"
+    ],
+    "Question": {
+      "content": "Give all possible values for Azimuthal quantum number (l) and Magnetic quantum number (m_l) for principal shell n = 2.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "For n=2: l = 0, 1. For l=0, m_l = 0. For l=1, m_l = -1, 0, +1."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Quantum Numbers for n=2</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Azimuthal Quantum Number (l):</strong><br>\n   l can have values from 0 to (n-1). For n=2:\n   <ul>\n     <li>l = 0 (s-subshell)</li>\n     <li>l = 1 (p-subshell)</li>\n   </ul>\n </div>\n\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Magnetic Quantum Number (m_l):</strong><br>\n   m_l can have values from -l to +l, including zero.\n   \n   <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n     <p><strong>For l = 0:</strong> m_l = 0 (one value - 2s orbital)</p>\n     <p><strong>For l = 1:</strong> m_l = -1, 0, +1 (three values - 2p orbitals)</p>\n   </div>\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor);'>Summary Table:</strong><br>\n   <table style='width: 100%; border-collapse: collapse; margin-top: 10px;'>\n     <tr style='background: var(--strongColor); color: white;'>\n       <th style='padding: 8px; border: 1px solid #ddd;'>n</th>\n       <th style='padding: 8px; border: 1px solid #ddd;'>l</th>\n       <th style='padding: 8px; border: 1px solid #ddd;'>m_l</th>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Subshell</th>\n     </tr>\n     <tr><td>2</td><td>0</td><td>0</td><td>2s</td></tr>\n     <tr style='background: rgba(0,0,0,0.02);'><td>2</td><td>1</td><td>-1, 0, +1</td><td>2p</td></tr>\n   </table>\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> l = 0, 1. For l=0, m_l=0. For l=1, m_l=-1, 0, +1.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3(i)",
+    "topic": [
+      "Chemical Bonding",
+      "Boron",
+      "Periodic Table"
+    ],
+    "Question": {
+      "content": "Using appropriate equations only, illustrate the metallic and non-metallic character of Boron.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Metallic character: 2B + 3Cl₂ → 2BCl₃. Non-metallic character: 4B + 3O₂ → 2B₂O₃; B₂O₃ + 3H₂O → 2H₃BO₃"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Metallic and Non-metallic Character of Boron</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Boron is a Metalloid:</strong><br>\n   It exhibits both metallic and non-metallic properties.\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>Metallic Character:</strong><br>\n   Like metals, boron reacts with halogens to form halides:\n   \n   <div style='text-align: center; font-size: 1.2rem; margin: 15px 0;'>\n     \\(2B + 3Cl_2 \\rightarrow 2BCl_3\\)\n   </div>\n   <p><em>Note: BCl₃ is covalent, showing boron's incomplete metallic character.</em></p>\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor); font-size: 1.1rem;'>Non-metallic Character:</strong><br>\n   Like non-metals, boron forms an acidic oxide that reacts with water to give an acid:\n   \n   <div style='text-align: center; font-size: 1.2rem; margin: 15px 0;'>\n     \\(4B + 3O_2 \\rightarrow 2B_2O_3\\)\n   </div>\n   \n   <div style='text-align: center; font-size: 1.2rem; margin: 15px 0;'>\n     \\(B_2O_3 + 3H_2O \\rightarrow 2H_3BO_3\\) (boric acid)\n   </div>\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> \\(2B + 3Cl_2 \\rightarrow 2BCl_3\\), \\(4B + 3O_2 \\rightarrow 2B_2O_3\\), \\(B_2O_3 + 3H_2O \\rightarrow 2H_3BO_3\\)\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3(ii)",
+    "topic": [
+      "Chemical Bonding",
+      "Interhalogen Compounds"
+    ],
+    "Question": {
+      "content": "List the four types of stable binary interhalogen compounds with a specific example for each.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1. XY type: ClF. 2. XY₃ type: ClF₃. 3. XY₅ type: BrF₅. 4. XY₇ type: IF₇."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Interhalogen Compounds</h4>\n \n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>What are Interhalogen Compounds?</strong><br>\n   Compounds formed between two different halogen atoms, with general formula XYₙ where n is odd.\n </div>\n\n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <table style='width: 100%; border-collapse: collapse;'>\n     <tr style='background: var(--strongColor); color: white;'>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Type</th>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Formula</th>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Example</th>\n       <th style='padding: 8px; border: 1px solid #ddd;'>Name</th>\n     </tr>\n     <tr><td>1</td><td>XY</td><td>ClF</td><td>Chlorine monofluoride</td></tr>\n     <tr style='background: rgba(0,0,0,0.02);'><td>2</td><td>XY₃</td><td>ClF₃</td><td>Chlorine trifluoride</td></tr>\n     <tr><td>3</td><td>XY₅</td><td>BrF₅</td><td>Bromine pentafluoride</td></tr>\n     <tr style='background: rgba(0,0,0,0.02);'><td>4</td><td>XY₇</td><td>IF₇</td><td>Iodine heptafluoride</td></tr>\n   </table>\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> XY (ClF), XY₃ (ClF₃), XY₅ (BrF₅), XY₇ (IF₇)\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4(i)",
+    "topic": [
+      "Periodic Table",
+      "Beryllium",
+      "Anomalous Behavior"
+    ],
+    "Question": {
+      "content": "Give reasons why Beryllium shows some unusual properties from other elements in its group.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1. Very small size and high charge density. 2. High ionization energy. 3. High electronegativity. 4. Lack of d-orbitals. 5. Forms covalent compounds. 6. Amphoteric hydroxide."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Why Beryllium is Different</h4>\n \n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <ul>\n     <li><strong>Very small size and high charge density:</strong> Leads to high polarizing power</li>\n     <li><strong>High ionization energy:</strong> Much higher than other Group II elements</li>\n     <li><strong>High electronegativity:</strong> About 1.57, while others are 0.9-1.0</li>\n     <li><strong>Lack of d-orbitals:</strong> Cannot expand coordination number beyond 4</li>\n     <li><strong>Forms covalent compounds:</strong> Others form ionic compounds</li>\n     <li><strong>Amphoteric hydroxide:</strong> Be(OH)₂ dissolves in both acids and bases; others are basic only</li>\n     <li><strong>Diagonal relationship with Al:</strong> Shows similarity with aluminum</li>\n   </ul>\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Small size, high charge density, high ionization energy, high electronegativity, lack of d-orbitals, covalent bonding, amphoteric hydroxide.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4(ii)",
+    "topic": [
+      "Periodic Table",
+      "Electronegativity",
+      "Ionization Energy"
+    ],
+    "Question": {
+      "content": "What is the trend of electronegativity and ionization energies for groups one and two?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Both electronegativity and ionization energy decrease down the group for Group I and Group II elements."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Trends in Groups I and II</h4>\n \n <div style='background: rgba(0,0,0,0.05); padding: 15px; border-radius: 5px; margin: 15px 0;'>\n   <strong style='color: var(--strongColor);'>Ionization Energy:</strong>\n   <ul>\n     <li>Decreases down both groups</li>\n     <li>Reason: Atomic size increases, outer electrons are farther from nucleus and more shielded</li>\n     <li>Group I example: Li > Na > K > Rb > Cs</li>\n   </ul>\n   \n   <strong style='color: var(--strongColor); display: block; margin-top: 15px;'>Electronegativity:</strong>\n   <ul>\n     <li>Decreases down both groups</li>\n     <li>Reason: Increasing atomic size means nucleus has less pull on bonding electrons</li>\n     <li>Group I example: Li > Na > K > Rb > Cs</li>\n     <li>Group II example: Be > Mg > Ca > Sr > Ba</li>\n   </ul>\n </div>\n\n <div style='text-align: center; font-size: 1.2rem; margin: 20px 0;'>\n   <strong>Both properties DECREASE down the group</strong>\n </div>\n\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Both electronegativity and ionization energy decrease down Group I and Group II.\n </div>\n</div>"
+    }
+  }
+]
