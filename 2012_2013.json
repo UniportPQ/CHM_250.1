@@ -1,0 +1,787 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "OBJ",
+    "course_title": "Inorganic chemistry",
+    "code": "CHEM 250.1",
+    "session": "2012/2013",
+    "topics": ["Periodic Table", "Chemistry", "Molecular Orbital Theory", "Chemical Bonding", "Electronegativity", "Periodic Trends", "Ionization Energy", "Atomic Structure", "Electronic Configuration", "Quantum Numbers", "Noble Gases", "Helium", "Properties", "Chemical Reactions", "Halogens", "Alkali Metals", "Metallurgy", "Aluminium", "Ores", "Reactivity", "p-block Elements", "Molecular Structure", "Sulfur Compounds", "Nitrogen", "Allotropes", "Oxygen", "Atmospheric Chemistry", "Calcium", "Boron Family", "Inert Pair Effect", "Boron Chemistry", "Boranes", "Classification", "Acidity Trends", "Hydrides", "Periodic Properties", "Sulfur", "Group VI Elements", "Chalcogens", "Group IV Elements", "Earth's Crust", "Abundance", "Elements", "Industrial Preparation", "Diagonal Relationship", "Beryllium", "Industrial Chemistry", "Sodium Silicate", "Silicon Compounds", "Phosphorus", "Oxidation States", "Potassium", "Oxides", "Fluorine", "Physical Properties"],
+    "time": "120"
+  },
+  
+  
+  {
+    "type": "Instruction",
+    "content": "Attempt All Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1a",
+    "topic": [
+      "Periodic Table",
+      "Chemistry"
+    ],
+    "Question": {
+      "content": "How many elements are there in the second period of the periodic table?",
+      "type": "OBJ",
+      "options": [
+        "2",
+        "8",
+        "18",
+        "32"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "8"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Periodic Table Periods</h4>\n <p>The second period (row) of the periodic table starts with Lithium (Li, atomic number 3) and ends with Neon (Ne, atomic number 10).</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Calculation</strong><br>\n The number of elements is calculated as: \\(10 - 3 + 1 = 8\\).\n </div>\n <p>These 8 elements are: Lithium (Li), Beryllium (Be), Boron (B), Carbon (C), Nitrogen (N), Oxygen (O), Fluorine (F), and Neon (Ne).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 1b",
+    "topic": [
+      "Periodic Table",
+      "Chemistry"
+    ],
+    "Question": {
+      "content": "How many elements are there in the fourth period of the periodic table?",
+      "type": "OBJ",
+      "options": [
+        "8",
+        "18",
+        "32",
+        "50"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "18"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Periodic Table Periods</h4>\n <p>The fourth period starts with Potassium (K, atomic number 19) and ends with Krypton (Kr, atomic number 36). This period includes the first set of transition metals (Scandium to Zinc).</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Calculation</strong><br>\n The number of elements is: \\(36 - 19 + 1 = 18\\).\n </div>\n <p>These 18 elements are: K (19), Ca (20), Sc (21), Ti (22), V (23), Cr (24), Mn (25), Fe (26), Co (27), Ni (28), Cu (29), Zn (30), Ga (31), Ge (32), As (33), Se (34), Br (35), Kr (36).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2a",
+    "topic": [
+      "Molecular Orbital Theory",
+      "Chemical Bonding"
+    ],
+    "Question": {
+      "content": "What is the molecular orbital configuration of a helium molecule (He₂)?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(\\sigma(1s)^2 \\sigma^*(1s)^2\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Molecular Orbital Theory for He₂</h4>\n <p>A helium atom has 2 electrons in its 1s orbital. A He₂ molecule therefore has a total of 4 electrons (2 from each atom).</p>\n <p>In Molecular Orbital Theory, the 1s atomic orbitals combine to form two molecular orbitals:</p>\n <ul>\n <li>A lower-energy <strong>bonding orbital</strong>, \\(\\sigma(1s)\\), where electron density is concentrated between the nuclei.</li>\n <li>A higher-energy <strong>antibonding orbital</strong>, \\(\\sigma^*(1s)\\), where electron density is concentrated away from the region between the nuclei.</li>\n </ul>\n <p>The 4 electrons fill these orbitals according to the Aufbau principle and Pauli exclusion principle:</p>\n <ul>\n <li>2 electrons fill the lower-energy bonding orbital: \\(\\sigma(1s)^2\\)</li>\n <li>The next 2 electrons must go into the higher-energy antibonding orbital: \\(\\sigma^*(1s)^2\\)</li>\n </ul>\n <p>Resulting configuration: <strong>\\(\\sigma(1s)^2 \\sigma^*(1s)^2\\)</strong></p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2b",
+    "topic": [
+      "Molecular Orbital Theory",
+      "Chemical Bonding"
+    ],
+    "Question": {
+      "content": "What is the bond order of a helium molecule (He₂)?",
+      "type": "OBJ",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "0.5"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Calculating Bond Order</h4>\n <p>Bond order is a measure of the stability of a bond. It is calculated using the formula:</p>\n <p style='font-size: 1.2rem; text-align: center;'>\\( \\text{Bond Order} = \\frac{(\\text{Number of bonding e}^-) - (\\text{Number of antibonding e}^-)}{2} \\)</p>\n <p>For He₂, the molecular orbital configuration is \\(\\sigma(1s)^2 \\sigma^*(1s)^2\\).</p>\n <ul>\n <li>Number of bonding electrons = 2 (in \\(\\sigma(1s)\\))</li>\n <li>Number of antibonding electrons = 2 (in \\(\\sigma^*(1s)\\))</li>\n </ul>\n <p>Therefore:</p>\n <p style='font-size: 1.2rem; text-align: center;'>\\( \\text{Bond Order} = \\frac{2 - 2}{2} = \\frac{0}{2} = 0 \\)</p>\n <p>A bond order of zero indicates that there is no net bonding interaction. The He₂ molecule is <strong>not stable</strong> and does not exist under normal conditions. The two helium atoms simply repel each other.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Electronegativity",
+      "Periodic Trends"
+    ],
+    "Question": {
+      "content": "Arrange the following atoms in increasing order of electronegativity: Br, F, O, Cl, Na.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Na, Br, Cl, O, F"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Electronegativity Trend</h4>\n <p>Electronegativity is the tendency of an atom to attract a shared pair of electrons. On the periodic table, it generally increases from left to right across a period and decreases from top to bottom down a group.</p>\n <p>Let's locate each element:</p>\n <ul style='list-style-type: none; padding-left: 0;'>\n <li><strong style='color: var(--strongColor);'>Na (Sodium)</strong>: Group 1, Period 3. Far left side → <strong>very low electronegativity</strong> (≈0.93).</li>\n <li><strong style='color: var(--strongColor);'>Br (Bromine)</strong>: Group 17, Period 4. High electronegativity, but below Cl → <strong>≈2.96</strong>.</li>\n <li><strong style='color: var(--strongColor);'>Cl (Chlorine)</strong>: Group 17, Period 3. Above Br → <strong>higher than Br (≈3.16)</strong>.</li>\n <li><strong style='color: var(--strongColor);'>O (Oxygen)</strong>: Group 16, Period 2. To the right of Cl, but in a higher period? Actually O is above S, and electronegativity increases up a group. O has the second-highest electronegativity <strong>≈3.44</strong>.</li>\n <li><strong style='color: var(--strongColor);'>F (Fluorine)</strong>: Group 17, Period 2. Top right corner → <strong>most electronegative element (≈3.98)</strong>.</li>\n </ul>\n <p>Therefore, the increasing order is: <strong>Na < Br < Cl < O < F</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Ionization Energy",
+      "Atomic Structure"
+    ],
+    "Question": {
+      "content": "The energy required to remove the most loosely bound electron from an isolated gaseous atom is known as what?",
+      "type": "OBJ",
+      "options": [
+        "Electron Affinity",
+        "Ionization Energy",
+        "Electronegativity",
+        "Activation Energy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ionization Energy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Definition of Ionization Energy</h4>\n <p><strong style='color: var(--strongColor);'>Ionization Energy (IE)</strong> is the minimum amount of energy required to remove the most loosely bound electron from an isolated gaseous atom to form a cation.</p>\n <p>The process can be represented as:</p>\n <p style='font-size: 1.2rem; text-align: center;'>\\( M_{(g)} \\rightarrow M^+_{(g)} + e^- \\)</p>\n <p>Key points:</p>\n <ul>\n <li>The atom must be in the <strong>gaseous state</strong>.</li>\n <li>The electron removed is the <strong>most loosely bound</strong> (usually the valence electron in the highest energy orbital).</li>\n <li>It is always an <strong>endothermic</strong> process (requires energy input).</li>\n </ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Electronic Configuration",
+      "Periodic Table"
+    ],
+    "Question": {
+      "content": "This is the electronic configuration of which element: \\(1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^{10}\\)?",
+      "type": "OBJ",
+      "options": [
+        "Zinc (Zn)",
+        "Gallium (Ga)",
+        "Krypton (Kr)",
+        "Nickel (Ni)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Zinc (Zn)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Identifying an Element from its Configuration</h4>\n <p>To find the element, we need to count the total number of electrons, which equals the atomic number (Z) for a neutral atom.</p>\n <p><strong>Step-by-step count:</strong></p>\n <ul>\n <li>\\(1s^2\\): 2 electrons</li>\n <li>\\(2s^2 2p^6\\): 2 + 6 = 8 electrons (Running total: 10)</li>\n <li>\\(3s^2 3p^6\\): 2 + 6 = 8 electrons (Running total: 18)</li>\n <li>\\(4s^2 3d^{10}\\): 2 + 10 = 12 electrons (Final total: 30)</li>\n </ul>\n <p>The element with atomic number 30 is <strong>Zinc (Zn)</strong>.</p>\n <p>The correct order of filling is 4s before 3d, so the configuration is correctly written as \\(1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^{10}\\) or \\([Ar] 4s^2 3d^{10}\\).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Quantum Numbers",
+      "Atomic Structure"
+    ],
+    "Question": {
+      "content": "What is the maximum number of electrons in an atom that has the highest principal quantum number n=4?",
+      "type": "OBJ",
+      "options": [
+        "8",
+        "18",
+        "32",
+        "2"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "32"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Electron Capacity of an Energy Level</h4>\n <p>The maximum number of electrons that can occupy a principal energy level (n) is given by the formula:</p>\n <p style='font-size: 1.5rem; text-align: center;'>\\( \\text{Maximum electrons} = 2n^2 \\)</p>\n <p>For n=4, we substitute the value:</p>\n <p style='font-size: 1.5rem; text-align: center;'>\\( 2 \\times (4)^2 = 2 \\times 16 = 32 \\)</p>\n <p>These 32 electrons are distributed among the sublevels within the n=4 shell:</p>\n <ul>\n <li>\\(4s\\) sublevel: 1 orbital × 2 electrons = 2 electrons</li>\n <li>\\(4p\\) sublevel: 3 orbitals × 2 electrons = 6 electrons</li>\n <li>\\(4d\\) sublevel: 5 orbitals × 2 electrons = 10 electrons</li>\n <li>\\(4f\\) sublevel: 7 orbitals × 2 electrons = 14 electrons</li>\n </ul>\n <p>Total: 2 + 6 + 10 + 14 = 32 electrons</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Quantum Numbers",
+      "Electronic Configuration"
+    ],
+    "Question": {
+      "content": "What are the four quantum numbers (n, l, m_l, m_s) for the last electron in a krypton atom (Kr, atomic number 36)?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(n=4, l=1, m_l=0, m_s=-\\frac{1}{2}\\) (or \\(m_s=+\\frac{1}{2}\\) depending on filling convention)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Determining Quantum Numbers for Krypton</h4>\n <p><strong>Step 1: Write the full electronic configuration of Krypton (Kr, Z=36).</strong></p>\n <p>Following the Aufbau principle: \\(1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^{10} 4p^6\\)</p>\n <p>The \"last electron\" is the 36th electron, which is the last one placed in the \\(4p\\) subshell, completing it.</p>\n <p><strong>Step 2: Determine the quantum numbers.</strong></p>\n <ul>\n <li><strong style='color: var(--strongColor);'>Principal Quantum Number (n):</strong> This electron is in the 4p orbital, so \\(n = 4\\).</li>\n <li><strong style='color: var(--strongColor);'>Azimuthal Quantum Number (l):</strong> For a 'p' subshell, \\(l = 1\\). (s=0, p=1, d=2, f=3)</li>\n <li><strong style='color: var(--strongColor);'>Magnetic Quantum Number (m_l):</strong> For \\(l=1\\), \\(m_l\\) can be -1, 0, or +1. By Hund's rule, electrons fill orbitals singly first. The \\(4p^6\\) configuration means all three p orbitals are fully paired (↑↓ in each). The convention for the \"last\" electron is often the one that completes the pairing in the last orbital. We can assign it to \\(m_l = 0\\).</li>\n <li><strong style='color: var(--strongColor);'>Spin Quantum Number (m_s):</strong> Since it's the second electron in that orbital (pairing up), it must have opposite spin to the first electron. If the first electron in that orbital had \\(m_s = +\\frac{1}{2}\\), this last electron will have \\(m_s = -\\frac{1}{2}\\).</li>\n </ul>\n <p>Therefore, a common set of quantum numbers for the last electron of Kr is \\((4, 1, 0, -\\frac{1}{2})\\).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Noble Gases",
+      "Helium",
+      "Properties"
+    ],
+    "Question": {
+      "content": "Outline any three special properties of helium.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1. It has the lowest boiling point of any element (4.2 K). 2. It is not flammable and is less dense than air. 3. It becomes a superfluid with zero viscosity at temperatures below 2.17 K (the lambda point)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Unique Properties of Helium</h4>\n <p>Helium has several unique characteristics:</p>\n <ul>\n <li><strong style='color: var(--strongColor);'>Extremely Low Boiling Point:</strong> Helium has the lowest boiling point of any substance, at just 4.2 Kelvin (-268.95°C). It is the only element that cannot be solidified by cooling alone at normal pressure.</li>\n <li><strong style='color: var(--strongColor);'>Low Density and Inertness:</strong> It is the second lightest element and is completely non-flammable and chemically inert, making it safe for balloons and airships.</li>\n <li><strong style='color: var(--strongColor);'>Superfluidity:</strong> When cooled below 2.17 K, helium-4 becomes a superfluid with zero viscosity, able to flow without friction and climb walls.</li>\n </ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Chemical Reactions",
+      "Noble Gases",
+      "Halogens"
+    ],
+    "Question": {
+      "content": "While working at the lab, a student reacted a gas whose atomic number is 54 with a halogen whose electronic configuration is \\(1s^2 2s^2 2p^6\\) at 400°C in a nickel vessel. What are the possible products formed?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Xenon difluoride (XeF₂) and Xenon tetrafluoride (XeF₄)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Identifying the Reactants and Products</h4>\n <p><strong>Step 1: Identify the gas with atomic number 54.</strong> This is <strong>Xenon (Xe)</strong>.</p>\n <p><strong>Step 2: Identify the halogen.</strong> The configuration \\(1s^2 2s^2 2p^6\\) has 10 electrons, which is the configuration of Ne. However, since it's a halogen, it must be Fluorine (F). The given configuration is actually the configuration of F⁻ ion. So the halogen is Fluorine (F₂).</p>\n <p><strong>Step 3: Determine the products.</strong> At 400°C in a nickel vessel, xenon reacts with fluorine to form xenon fluorides:</p>\n <ul>\n <li>\\( Xe + F_2 \\rightarrow XeF_2 \\) (Xenon difluoride)</li>\n <li>\\( Xe + 2F_2 \\rightarrow XeF_4 \\) (Xenon tetrafluoride)</li>\n </ul>\n <p>Both are possible products at this temperature.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Alkali Metals",
+      "Chemical Reactions"
+    ],
+    "Question": {
+      "content": "Group IA metals all react with water liberating what gas and forming what type of compound?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They liberate hydrogen gas (H₂) and form a metal hydroxide."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Reaction of Alkali Metals with Water</h4>\n <p>Group IA metals (alkali metals: Li, Na, K, Rb, Cs, Fr) react with water according to the general equation:</p>\n <p style='font-size: 1.2rem; text-align: center;'>\\( 2M_{(s)} + 2H_2O_{(l)} \\rightarrow 2MOH_{(aq)} + H_{2(g)} \\)</p>\n <ul>\n <li><strong style='color: var(--strongColor);'>The gas liberated:</strong> <strong>Hydrogen gas (\\(H_2\\))</strong>.</li>\n <li><strong style='color: var(--strongColor);'>The compound formed:</strong> A <strong>metal hydroxide (\\(MOH\\))</strong>, which is a strong base.</li>\n </ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Metallurgy",
+      "Aluminium",
+      "Ores"
+    ],
+    "Question": {
+      "content": "Bauxite is the most important ore of which metal?",
+      "type": "OBJ",
+      "options": [
+        "Iron",
+        "Copper",
+        "Aluminium",
+        "Zinc"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Aluminium"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Bauxite Ore</h4>\n <p><strong style='color: var(--strongColor);'>Bauxite</strong> is a sedimentary rock and the world's primary source of aluminium. It is a mixture of hydrated aluminium oxides and hydroxides, mainly gibbsite (Al(OH)₃), boehmite (γ-AlO(OH)), and diaspore (α-AlO(OH)).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Reactivity",
+      "p-block Elements",
+      "Aluminium"
+    ],
+    "Question": {
+      "content": "A student mistakenly exposed a group III element in period 3 (Aluminium) to air, and discovered it was stable with the development of an oxide film. How can they get this element to react?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The oxide film can be removed (e.g., by scratching with mercury or using an acid/base) or the aluminium can be heated strongly to initiate a reaction."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Overcoming Aluminium's Passivation</h4>\n <p>The group III, period 3 element is <strong>Aluminium (Al)</strong>. It forms a protective oxide layer (\\(Al_2O_3\\)) through passivation. To get it to react:</p>\n <ul>\n <li><strong style='color: var(--strongColor);'>Mechanical Abrasion:</strong> Scratch or file the surface to expose fresh metal.</li>\n <li><strong style='color: var(--strongColor);'>Amalgamation:</strong> Treat with mercury to prevent oxide layer formation.</li>\n <li><strong style='color: var(--strongColor);'>Chemical Dissolution:</strong> Use acids or bases to dissolve the oxide layer.</li>\n <li><strong style='color: var(--strongColor);'>Strong Heating:</strong> Heat strongly (e.g., in thermite reaction).</li>\n </ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "Chemical Bonding",
+      "Molecular Structure",
+      "Sulfur Compounds"
+    ],
+    "Question": {
+      "content": "What is the structure of sulfur trioxide (SO₃)?",
+      "type": "OBJ",
+      "options": [
+        "Linear",
+        "Trigonal planar",
+        "Tetrahedral",
+        "Bent"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Trigonal planar"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Structure of SO₃</h4>\n <p>Sulfur trioxide (SO₃) has a trigonal planar structure. Sulfur has 6 valence electrons, forms three double bonds with oxygen, has no lone pairs, and three bonding regions, giving a trigonal planar geometry with 120° bond angles.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "Chemical Bonding",
+      "Nitrogen",
+      "p-block Elements"
+    ],
+    "Question": {
+      "content": "Nitrogen cannot extend its coordination number beyond four because of what reason?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nitrogen lacks available d-orbitals in its valence shell to accommodate additional electrons for bonding."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Nitrogen's Inability to Expand its Octet</h4>\n <p>Nitrogen is in the second period and has only s and p orbitals (2s and 2p) in its valence shell. These four orbitals can accommodate a maximum of 8 electrons. Nitrogen does NOT have 2d orbitals. The d-orbitals only become available from the third energy level (3d) onward. Therefore, nitrogen cannot expand its octet and is limited to a maximum coordination number of 4.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Allotropes",
+      "Oxygen",
+      "Atmospheric Chemistry"
+    ],
+    "Question": {
+      "content": "What is an allotrope of oxygen and what is its function?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ozone (O₃) is an allotrope of oxygen and its function is to absorb harmful ultraviolet (UV) radiation from the sun in the stratosphere."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Allotropes of Oxygen</h4>\n <p>Oxygen has two main allotropes: dioxygen (O₂) and ozone (O₃). Ozone in the stratosphere absorbs about 98% of the Sun's harmful UV radiation, protecting life on Earth.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": [
+      "Chemical Reactions",
+      "Calcium",
+      "Nitrogen"
+    ],
+    "Question": {
+      "content": "Balance the following chemical equation: Ca + N₂ → Ca₃N₂",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3Ca + N₂ → Ca₃N₂"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Balancing the Equation</h4>\n <p>The balanced equation is: <strong>\\( 3Ca + N_2 \\rightarrow Ca_3N_2 \\)</strong></p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": [
+      "p-block Elements",
+      "Boron Family",
+      "Inert Pair Effect"
+    ],
+    "Question": {
+      "content": "Monovalency observed among group III elements (Boron family) is due to the occurrence of what phenomenon?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Inert pair effect"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Inert Pair Effect</h4>\n <p>The inert pair effect refers to the reluctance of the two electrons in the outermost s-orbital (ns²) to participate in bonding in heavier p-block elements. This leads to the +1 oxidation state becoming more stable than +3 for heavier Group III elements like Thallium (Tl).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": [
+      "Boron Chemistry",
+      "Boranes",
+      "Classification"
+    ],
+    "Question": {
+      "content": "To which class of boranes does B₁₀H₁₄ (decaborane) belong?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nido-borane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Classification of Decaborane</h4>\n <p>Decaborane (B₁₀H₁₄) has the formula B_nH_{n+4} (since 10 + 4 = 14). This fits the pattern for <strong>nido-boranes</strong>, which have open 'nest-like' structures derived from a closo polyhedron missing one vertex.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "Noble Gases",
+      "Helium",
+      "Periodic Table"
+    ],
+    "Question": {
+      "content": "Which element (He) is unique because it forms a solid only under pressure and exists in two different liquid phases (normal and superfluid)?",
+      "type": "OBJ",
+      "options": [
+        "Neon",
+        "Argon",
+        "Helium",
+        "Xenon"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Helium"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Unique Properties of Helium</h4>\n <p>Helium is the only element that cannot be solidified by cooling alone at normal pressure; pressure must be applied. It also exists in two liquid phases: normal Helium-I and superfluid Helium-II (below 2.17 K).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "Acidity Trends",
+      "Hydrides",
+      "Periodic Properties"
+    ],
+    "Question": {
+      "content": "Arrange the following in increasing order of acidity: H₂O, H₂S, H₂Se, H₂Te, H₂Po.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "H₂O < H₂S < H₂Se < H₂Te < H₂Po"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Acidity Trend in Group VI Hydrides</h4>\n <p>Acidity increases down the group due to decreasing bond strength and increasing stability of the conjugate base. Therefore: H₂O (weakest) < H₂S < H₂Se < H₂Te < H₂Po (strongest).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": [
+      "Allotropes",
+      "Sulfur",
+      "p-block Elements"
+    ],
+    "Question": {
+      "content": "What are the two most important allotropes of sulfur?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Rhombic sulfur (α-sulfur) and Monoclinic sulfur (β-sulfur)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Allotropes of Sulfur</h4>\n <p>The two most important crystalline allotropes are:</p>\n <ul>\n <li><strong style='color: var(--strongColor);'>Rhombic sulfur (α-sulfur):</strong> Stable below 95.6°C, yellow, composed of S₈ rings.</li>\n <li><strong style='color: var(--strongColor);'>Monoclinic sulfur (β-sulfur):</strong> Stable above 95.6°C, needle-like crystals, also S₈ rings.</li>\n </ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": [
+      "Periodic Table",
+      "Group VI Elements",
+      "Chalcogens"
+    ],
+    "Question": {
+      "content": "Group VI elements (oxygen family) are collectively called what?",
+      "type": "OBJ",
+      "options": [
+        "Alkali metals",
+        "Halogens",
+        "Chalcogens",
+        "Pnictogens"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Chalcogens"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Group Names</h4>\n <p>Group VI (16) elements (O, S, Se, Te, Po) are called <strong>chalcogens</strong> (ore-formers).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": [
+      "Periodic Table",
+      "Group IV Elements",
+      "Electronic Configuration"
+    ],
+    "Question": {
+      "content": "Write out the elements that make up group IV (14) and their outer electronic configuration.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Elements: Carbon (C), Silicon (Si), Germanium (Ge), Tin (Sn), Lead (Pb). Outer electronic configuration: ns²np²"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Group IV (14) Elements</h4>\n <p>Elements: Carbon (C), Silicon (Si), Germanium (Ge), Tin (Sn), Lead (Pb). Outer electronic configuration: <strong>ns²np²</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": [
+      "Earth's Crust",
+      "Abundance",
+      "Elements"
+    ],
+    "Question": {
+      "content": "What is the 10th most abundant element in the earth's crust?",
+      "type": "OBJ",
+      "options": [
+        "Hydrogen",
+        "Phosphorus",
+        "Titanium",
+        "Magnesium"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Phosphorus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Elemental Abundance</h4>\n <p>The 10th most abundant element in Earth's crust is <strong>Phosphorus (P)</strong> (about 0.1% by mass).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": [
+      "Noble Gases",
+      "Industrial Preparation",
+      "Helium"
+    ],
+    "Question": {
+      "content": "All noble gases can be prepared industrially by fractional distillation of liquid air except one. Which noble gas is the exception and how is it prepared?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Helium (He) is the exception. It is obtained from natural gas wells by fractional distillation."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Preparation of Noble Gases</h4>\n <p>Ar, Ne, Kr, Xe are obtained from fractional distillation of liquid air. Helium is too dilute in air, so it is obtained from <strong>natural gas</strong> by fractional distillation.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26a",
+    "topic": [
+      "Periodic Trends",
+      "Diagonal Relationship"
+    ],
+    "Question": {
+      "content": "An occurrence among the s and p block where a member of a group differs from its other group members but shows closer similarities with its diagonal neighbor is called what?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Diagonal relationship"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Diagonal Relationship</h4>\n <p>This phenomenon is called the <strong>diagonal relationship</strong>. It occurs between diagonally adjacent elements in periods 2 and 3 (e.g., Li-Mg, Be-Al, B-Si) due to similar charge-to-radius ratios.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26b",
+    "topic": [
+      "Periodic Trends",
+      "Diagonal Relationship",
+      "Beryllium",
+      "Aluminium"
+    ],
+    "Question": {
+      "content": "Which element in period 2 shows considerable differences from the rest of its group members and resembles which element in group III?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Beryllium (Be) shows considerable differences from other Group II elements and resembles Aluminium (Al) in Group III."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Be-Al Diagonal Relationship</h4>\n <p><strong>Beryllium (Be)</strong> differs from other Group II elements (Mg, Ca, etc.) in forming covalent compounds, having amphoteric hydroxide, and showing diagonal similarity with <strong>Aluminium (Al)</strong> in Group III.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": [
+      "Industrial Chemistry",
+      "Sodium Silicate",
+      "Silicon Compounds"
+    ],
+    "Question": {
+      "content": "How is 'water glass' (sodium silicate) formed?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Water glass (sodium silicate) is formed by fusing silica (sand, SiO₂) with sodium carbonate (Na₂CO₃) at high temperatures."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Preparation of Water Glass</h4>\n <p>Water glass (sodium silicate) is prepared by fusing silica (SiO₂) with sodium carbonate (Na₂CO₃) at high temperatures:</p>\n <p style='font-size: 1.2rem; text-align: center;'>\\( Na_2CO_3 + SiO_2 \\xrightarrow{\\Delta} Na_2SiO_3 + CO_2 \\)</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": [
+      "Phosphorus",
+      "Chemical Reactions",
+      "Oxidation States"
+    ],
+    "Question": {
+      "content": "With a balanced equation, what product(s) are formed when phosphorus is burnt in a limited supply of air?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tetraphosphorus hexoxide (P₄O₆) is formed. The balanced equation is: P₄ + 3O₂ → P₄O₆"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Combustion of Phosphorus</h4>\n <p>In limited air, phosphorus forms phosphorus(III) oxide:</p>\n <p style='font-size: 1.2rem; text-align: center;'>\\( P_4 + 3O_2 \\rightarrow P_4O_6 \\)</p>\n <p>In excess air, it forms phosphorus(V) oxide: \\( P_4 + 5O_2 \\rightarrow P_4O_{10} \\)</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": [
+      "Potassium",
+      "Oxides",
+      "Chemical Reactions"
+    ],
+    "Question": {
+      "content": "Write the equation and state the type of oxide formed when potassium reacts with oxygen.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Equation: K + O₂ → KO₂ (potassium superoxide). Balanced: 2K + 2O₂ → 2KO₂. Type of oxide: Superoxide."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Reaction of Potassium with Oxygen</h4>\n <p>Potassium forms a <strong>superoxide</strong> (KO₂) containing the O₂⁻ ion:</p>\n <p style='font-size: 1.2rem; text-align: center;'>\\( 2K + 2O_2 \\rightarrow 2KO_2 \\)</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": [
+      "Electronic Configuration",
+      "Fluorine",
+      "Oxidation States"
+    ],
+    "Question": {
+      "content": "Give the full electronic configuration of fluorine and state its most stable oxidation state.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Electronic configuration: 1s² 2s² 2p⁵. Most stable oxidation state: -1."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Fluorine</h4>\n <p>Fluorine (atomic number 9) has configuration <strong>1s² 2s² 2p⁵</strong>. It gains one electron to achieve noble gas configuration, so its most stable oxidation state is <strong>-1</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": [
+      "Noble Gases",
+      "Helium",
+      "Periodic Table",
+      "Physical Properties"
+    ],
+    "Question": {
+      "content": "The element with the lowest boiling point known is which element, and to what group of the periodic table does it belong?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The element is Helium (He) and it belongs to Group 18 (Noble Gases)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Lowest Boiling Point</h4>\n <p><strong>Helium (He)</strong> has the lowest boiling point of any element (4.2 K). It belongs to <strong>Group 18</strong> (Noble Gases).</p>\n</div>"
+    }
+  }]
