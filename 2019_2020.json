@@ -1,0 +1,856 @@
+[
+  
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Inorganic Chemistry",
+    "code": "CHM 250.1",
+    "session": "2019/2020",
+    "topics": ["S-block Elements", "Chemical Reactions", "Oxides", "Hydroxides", "D-block Elements", "Density", "Atomic Structure", "Hardness of Water", "Chemistry", "Calcium", "Magnesium", "Solubility", "Lattice Energy", "Atomic Model", "J.J. Thompson", "Electrons", "Rutherford", "Nucleus", "Robert Millikan", "Charge", "James Chadwick", "Neutron", "Subatomic Particles", "Physics", "Protons", "Bohr's Theory", "Energy Levels", "Quantum Mechanics", "Schrodinger Equation", "Quantum Numbers", "Light", "Wave-Particle Duality", "Atomic Orbitals", "Periodic Table", "Taxonomy", "History of Science", "Isoelectronic Species", "Ions", "Chemical Bonding", "Covalent Bonds", "Nitrogen", "Carbon Monoxide", "Ionic Bonds", "Coordinate Bonds", "Electronegativity", "Periodic Trends", "Ionization Energy", "Molecular Geometry", "Hybridization", "Methane", "Phosphorus Pentachloride", "Group 15 Elements", "Electron Affinity", "Ores", "Boron", "Aluminum", "Earth's Crust", "Group 14 Elements", "Inert Pair Effect", "Helium", "States of Matter", "Low Temperature Physics", "Electronic Configuration", "Radon", "Noble Gases", "Fluorine", "Chemical Nomenclature", "Nitrogen Oxides", "Chemical Compounds", "Selenium", "Allotropy", "Molecular Orbital Theory", "Bond Order", "Group 2 Elements", "Alkaline Earth Metals", "Alkali Metals", "Group 1 Elements", "Atomic Radius", "Balmer Series", "Spectroscopy", "Electromagnetic Radiation", "Carbon Allotropes", "Diamond", "Graphite", "Materials Science", "Physical Properties", "Group 13 Elements", "Metallic Character", "Chemical Properties"],
+    "time": "90"
+  },
+    {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "heading",
+    "heading": "Section A"
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "S-block Elements",
+      "Chemical Reactions",
+      "Oxides",
+      "Hydroxides"
+    ],
+    "Question": {
+      "content": "The S-block elements burn in air to form _______ and react with water to form _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Oxides (or Peroxides/Superoxides) and Hydroxides"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Reactivity of S-block Elements</h4>\n <p>S-block elements (Group 1 and 2) are highly reactive.</p>\n <ul>\n <li><strong>Reaction with Air:</strong> They react with oxygen to form oxides. For example: <br> \\( 4Li + O_2 \\rightarrow 2Li_2O \\)</li>\n <li><strong>Reaction with Water:</strong> They react vigorously with water to produce metal hydroxides and hydrogen gas. For example: <br> \\( 2Na + 2H_2O \\rightarrow 2NaOH + H_2 \\)</li>\n </ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "S-block Elements",
+      "D-block Elements",
+      "Density",
+      "Atomic Structure"
+    ],
+    "Question": {
+      "content": "State whether the statement 'The S-block metals are heavier than the d-block metals' is true or false and explain why.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False. D-block metals have higher densities due to smaller atomic radii and greater atomic mass."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Density Comparison</h4>\n <p><strong>False.</strong> S-block metals (like Sodium or Potassium) are actually much lighter and less dense than d-block metals (like Iron or Gold).</p>\n <p><strong>Why?</strong> D-block elements have smaller atomic sizes and more protons/neutrons packed into that space. This results in much higher density (weight per unit volume) compared to the large, loosely packed atoms of S-block metals.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Hardness of Water",
+      "Chemistry",
+      "Calcium",
+      "Magnesium"
+    ],
+    "Question": {
+      "content": "Hardness of water is caused by _______ and _______ ions.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Calcium (\\(Ca^{2+}\\)) and Magnesium (\\(Mg^{2+}\\))"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Water Hardness</h4>\n <p>Water is described as 'hard' when it contains high concentrations of dissolved minerals. The primary culprits are <strong>Calcium ions (\\(Ca^{2+}\\))</strong> and <strong>Magnesium ions (\\(Mg^{2+}\\))</strong>, usually in the form of bicarbonates, chlorides, or sulfates.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "S-block Elements",
+      "Solubility",
+      "Lattice Energy"
+    ],
+    "Question": {
+      "content": "The S-block metals rarely occur together mainly because of _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Differences in solubility and hydration enthalpies."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Occurrence of S-block Metals</h4>\n <p>S-block metals are seldom found in the same mineral deposits because they have varying <strong>solubilities</strong> and <strong>ionic sizes</strong>. These differences mean they crystallize or precipitate out of solutions at different environmental conditions.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5a",
+    "topic": [
+      "Atomic Model",
+      "J.J. Thompson",
+      "Electrons"
+    ],
+    "Question": {
+      "content": "List the major contribution of J.J. Thompson to the development of the present day atomic model.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Discovery of the electron and the Plum Pudding Model."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>J.J. Thompson's Discovery</h4>\n <p>Thompson discovered the <strong>electron</strong> using cathode ray tube experiments. He proposed the 'Plum Pudding Model', where negatively charged electrons were embedded in a sphere of positive charge.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5b",
+    "topic": [
+      "Atomic Model",
+      "Rutherford",
+      "Nucleus"
+    ],
+    "Question": {
+      "content": "List the major contribution of Lord Rutherford to the development of the present day atomic model.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Discovery of the atomic nucleus via the Gold Foil Experiment."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Rutherford's Nucleus</h4>\n <p>Rutherford performed the <strong>Gold Foil Experiment</strong>, which showed that most of an atom's mass and positive charge is concentrated in a tiny central region called the <strong>nucleus</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6a",
+    "topic": [
+      "Atomic Model",
+      "Robert Millikan",
+      "Charge"
+    ],
+    "Question": {
+      "content": "List the major contribution of Robert Millikan to the development of the present day atomic model.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Measurement of the elementary electronic charge."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Millikan's Oil Drop Experiment</h4>\n <p>Millikan determined the <strong>exact charge of a single electron</strong> through his famous oil-drop experiment, which allowed for the calculation of the electron's mass.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6b",
+    "topic": [
+      "Atomic Model",
+      "James Chadwick",
+      "Neutron"
+    ],
+    "Question": {
+      "content": "List the major contribution of J.D. Chadwick (James Chadwick) to the development of the present day atomic model.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Discovery of the neutron."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Chadwick and the Neutron</h4>\n <p>In 1932, James Chadwick discovered the <strong>neutron</strong>, a subatomic particle with no charge located in the nucleus. This explained why atomic mass was higher than just the protons alone.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Subatomic Particles",
+      "Physics",
+      "Protons",
+      "Electrons"
+    ],
+    "Question": {
+      "content": "_______ and _______ are fundamental particles that are equal in magnitude but opposite in signs (charges).",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Protons and Electrons"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Balanced Charges</h4>\n <p><strong>Protons</strong> have a positive charge (+1) and <strong>electrons</strong> have a negative charge (-1). Their charges are exactly equal in strength but opposite in type, which is why an atom with equal numbers of both is electrically neutral.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Atomic Model",
+      "Bohr's Theory",
+      "Energy Levels"
+    ],
+    "Question": {
+      "content": "State two conclusions from Bohr's atomic model.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Electrons orbit the nucleus in fixed energy levels (shells), and energy is absorbed/emitted only when electrons jump between these levels."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Bohr's Key Ideas</h4>\n <ol>\n <li><strong>Quantized Orbits:</strong> Electrons don't just float anywhere; they exist in specific 'allowed' circular orbits with fixed energy.</li>\n <li><strong>Energy Quanta:</strong> Electrons move between orbits by emitting or absorbing a specific amount of energy (a photon) equal to the difference between levels.</li>\n </ol>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Quantum Mechanics",
+      "Schrodinger Equation",
+      "Quantum Numbers"
+    ],
+    "Question": {
+      "content": "In Schrodinger's equation, the solutions that determine energy level and orientation in space of an electron are _______ and _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Principal quantum number (n) and Magnetic quantum number (m_l)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Quantum Numbers</h4>\n <ul>\n <li><strong>Principal Quantum Number (n):</strong> Determines the main energy level or shell.</li>\n <li><strong>Magnetic Quantum Number (\\(m_l\\)):</strong> Determines the orientation of the orbital in 3D space.</li>\n </ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Light",
+      "Physics",
+      "Wave-Particle Duality"
+    ],
+    "Question": {
+      "content": "The dual nature of light consists of _______ and _______ properties.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Wave and Particle"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Wave-Particle Duality</h4>\n <p>Light behaves like a <strong>wave</strong> (it can interfere and diffract) but also like a <strong>particle</strong> (it travels in discrete packets of energy called photons).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Quantum Mechanics",
+      "Atomic Orbitals",
+      "Energy Levels"
+    ],
+    "Question": {
+      "content": "The quantum L = 2 corresponds to an atomic orbital _______ and energy level _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "d-orbital; 3 (minimum)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Azimuthal Quantum Number (L)</h4>\n <p>In quantum mechanics:</p>\n <ul>\n <li>L = 0 is 's'</li>\n <li>L = 1 is 'p'</li>\n <li><strong>L = 2 is 'd'</strong></li>\n </ul>\n <p>Because d-orbitals only start appearing at the 3rd energy level (n=3), the minimum energy level for L=2 is 3.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12a",
+    "topic": [
+      "Periodic Table",
+      "Taxonomy",
+      "History of Science"
+    ],
+    "Question": {
+      "content": "Summarize the contribution of J.J. Dobereiner to the discovery of the periodic table.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Law of Triads"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Dobereiner's Triads</h4>\n <p>Dobereiner noticed that elements with similar properties occurred in groups of three. In these <strong>Triads</strong>, the atomic mass of the middle element was roughly the average of the other two.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12b",
+    "topic": [
+      "Periodic Table",
+      "Taxonomy",
+      "History of Science"
+    ],
+    "Question": {
+      "content": "Summarize the contribution of John Newland to the discovery of the periodic table.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Law of Octaves"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Newland's Octaves</h4>\n <p>Newland arranged elements by atomic weight and found that every <strong>eighth</strong> element had similar properties, much like musical notes. This was the first hint of 'periodicity'.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13a",
+    "topic": [
+      "Isoelectronic Species",
+      "Atomic Structure",
+      "Ions"
+    ],
+    "Question": {
+      "content": "List the elements or ions that are isoelectronic with Argon (Ar).",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(Cl^{-}, K^{+}, Ca^{2+}, S^{2-}\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Isoelectronic with Argon</h4>\n <p><strong>Isoelectronic</strong> means having the same number of electrons. Argon has 18 electrons. Ions that also have 18 electrons include:</p>\n <ul>\n <li>\\(Cl^{-}\\) (17 + 1)</li>\n <li>\\(K^{+}\\) (19 - 1)</li>\n <li>\\(Ca^{2+}\\) (20 - 2)</li>\n </ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13b",
+    "topic": [
+      "Isoelectronic Species",
+      "Atomic Structure",
+      "Ions"
+    ],
+    "Question": {
+      "content": "List the elements or ions that are isoelectronic with Lithium ion (\\(Li^{+}\\)).",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Helium (He), \\(H^{-}, Be^{2+}\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Isoelectronic with \\(Li^{+}\\)</h4>\n <p>Lithium has 3 electrons, so \\(Li^{+}\\) has 2 electrons. Species with 2 electrons include:</p>\n <ul>\n <li><strong>Helium (He)</strong></li>\n <li>\\(H^{-}\\) (Hydride ion)</li>\n <li>\\(Be^{2+}\\) (Beryllium ion)</li>\n </ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14a",
+    "topic": [
+      "Chemical Bonding",
+      "Covalent Bonds",
+      "Nitrogen"
+    ],
+    "Question": {
+      "content": "Find the number of bond(s) in the covalent bond \\(N_2\\).",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3 (Triple Bond)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Bonding in Nitrogen</h4>\n <p>A Nitrogen atom has 5 valence electrons and needs 3 more to reach stability. Therefore, two Nitrogen atoms share 3 pairs of electrons, forming a <strong>triple covalent bond</strong> (\\(N \\equiv N\\)).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14b",
+    "topic": [
+      "Chemical Bonding",
+      "Covalent Bonds",
+      "Carbon Monoxide"
+    ],
+    "Question": {
+      "content": "Find the number of bond(s) in the covalent bond CO.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3 (Triple Bond)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Bonding in CO</h4>\n <p>In Carbon Monoxide, there are <strong>three</strong> bonds between C and O. Two are standard covalent bonds, and one is a 'dative' (coordinate) bond where Oxygen shares its electrons with Carbon.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Chemical Bonding",
+      "Ionic Bonds",
+      "Coordinate Bonds"
+    ],
+    "Question": {
+      "content": "State the type of bond existing in \\(CaF_2\\) and \\(NH_4^{+}\\).",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ionic bond in \\(CaF_2\\) and Covalent/Dative bond in \\(NH_4^{+}\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Identifying Bonds</h4>\n <ul>\n <li><strong>\\(CaF_2\\) (Calcium Fluoride):</strong> This is an <strong>Ionic bond</strong> formed between a metal (Ca) and a non-metal (F).</li>\n <li><strong>\\(NH_4^{+}\\) (Ammonium ion):</strong> This contains <strong>Covalent bonds</strong> between N and H, specifically one <strong>Dative (Coordinate) Covalent bond</strong> where Nitrogen provides both electrons for the fourth Hydrogen.</li>\n </ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16a",
+    "topic": [
+      "Electronegativity",
+      "Periodic Trends",
+      "Atomic Structure"
+    ],
+    "Question": {
+      "content": "Using the provided atomic/ionic sizes (A: 0.32, B: 1.46, C: 0.72, D2+: 1.02, E: 0.66, F: 1.48), arrange these species in increasing order of electronegativity.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "F < B < D2+ < C < E < A"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Electronegativity and Size</h4>\n <p>Electronegativity is an atom's ability to attract electrons. There is an <strong>inverse relationship</strong> between atomic size and electronegativity:</p>\n <ul>\n <li><strong>Large atoms</strong> (like F and B) have their outer shells far from the nucleus, so they attract electrons weakly.</li>\n <li><strong>Small atoms</strong> (like A and E) have nuclei very close to the surface, allowing them to pull in electrons strongly.</li>\n </ul>\n <p>Therefore, we arrange them from the <strong>largest radius to the smallest radius</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16b",
+    "topic": [
+      "Ionization Energy",
+      "Periodic Trends",
+      "Atomic Structure"
+    ],
+    "Question": {
+      "content": "Using the provided atomic/ionic sizes (A: 0.32, B: 1.46, C: 0.72, D2+: 1.02, E: 0.66, F: 1.48), arrange these species in increasing order of ionization energy.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "F < B < D2+ < C < E < A"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ionization Energy and Size</h4>\n <p>Ionization energy is the effort required to remove an electron.</p>\n <ul>\n <li>In <strong>large atoms</strong>, the electron is far away and easy to 'steal' (low energy).</li>\n <li>In <strong>small atoms</strong>, the nucleus holds the electron tightly (high energy).</li>\n </ul>\n <p>Just like electronegativity, smaller size equals higher energy. So the order remains: <strong>Largest to Smallest</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17a",
+    "topic": [
+      "Molecular Geometry",
+      "Hybridization",
+      "Methane"
+    ],
+    "Question": {
+      "content": "Give the shape and hybridization of the compound \\(CH_4\\).",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Shape: Tetrahedral; Hybridization: \\(sp^3\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Geometry of Methane</h4>\n <p>Carbon in \\(CH_4\\) forms 4 single bonds. To do this, it mixes one 's' and three 'p' orbitals to create <strong>\\(sp^3\\) hybridization</strong>. These four bonds push away from each other as far as possible, resulting in a <strong>Tetrahedral</strong> shape with angles of 109.5°.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17b",
+    "topic": [
+      "Molecular Geometry",
+      "Hybridization",
+      "Phosphorus Pentachloride"
+    ],
+    "Question": {
+      "content": "Give the shape and hybridization of the compound \\(PCl_5\\).",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Shape: Trigonal Bipyramidal; Hybridization: \\(sp^3d\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Geometry of \\(PCl_5\\)</h4>\n <p>Phosphorus has 5 chlorine atoms attached. To accommodate 5 bonds, it uses <strong>\\(sp^3d\\) hybridization</strong>. This forms a <strong>Trigonal Bipyramidal</strong> shape (like two pyramids glued base-to-base).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": [
+      "Group 15 Elements",
+      "Ionization Energy",
+      "Electron Affinity"
+    ],
+    "Question": {
+      "content": "Explain why Group 15 elements have relatively high ionization energy and lower electron affinity.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Due to their stable, half-filled \\(p^3\\) electronic configuration."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Half-Filled Stability</h4>\n <p>Group 15 elements (like Nitrogen) end in an <strong>\\(np^3\\) configuration</strong>. A half-filled subshell is extra stable. Because it is stable:</p>\n <ul>\n <li>It doesn't want to lose an electron (<strong>High Ionization Energy</strong>).</li>\n <li>It doesn't particularly want to gain another electron and break that symmetry (<strong>Lower Electron Affinity</strong>).</li>\n </ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "Ores",
+      "Boron",
+      "Aluminum",
+      "Earth's Crust"
+    ],
+    "Question": {
+      "content": "Write the chemical formulae for the ores in which Boron and Aluminum occur in the earth's crust.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Boron: \\(Na_2B_4O_7 \\cdot 10H_2O\\) (Borax); Aluminum: \\(Al_2O_3 \\cdot 2H_2O\\) (Bauxite)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Common Ores</h4>\n <ul>\n <li><strong>Boron</strong> is commonly found as <strong>Borax</strong>.</li>\n <li><strong>Aluminum</strong> is most abundantly found as <strong>Bauxite</strong>.</li>\n </ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "Group 14 Elements",
+      "Oxides",
+      "Inert Pair Effect"
+    ],
+    "Question": {
+      "content": "Why do most Group 14 elements form oxides of the nature \\(MO_2\\), but Lead forms oxides of the type PbO?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Due to the Inert Pair Effect, which makes the +2 oxidation state more stable than +4 for Lead."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Inert Pair Effect</h4>\n <p>As you go down Group 14, the 's' electrons become harder to use in bonding. For Carbon and Silicon, using all 4 valence electrons (\\(+4\\) state) is easy. But for <strong>Lead (Pb)</strong>, the 's' electrons stay 'inert', making the <strong>\\(+2\\) state</strong> much more stable, hence PbO instead of \\(PbO_2\\).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": [
+      "Helium",
+      "States of Matter",
+      "Low Temperature Physics"
+    ],
+    "Question": {
+      "content": "Which element remains liquid upon cooling, while all other elements become solid?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Helium (He)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Unique Nature of Helium</h4>\n <p><strong>Helium</strong> is the only element that does not solidify under its own vapor pressure, no matter how much you cool it (at standard pressure). It stays liquid even at absolute zero due to very weak forces between atoms and high 'zero-point energy'.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": [
+      "Electronic Configuration",
+      "Radon",
+      "Noble Gases"
+    ],
+    "Question": {
+      "content": "Write the condensed electronic configuration of the element Radon.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\([Xe] 4f^{14} 5d^{10} 6s^2 6p^6\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Shorthand Configuration</h4>\n <p>Instead of writing out all 86 electrons, we start with the previous noble gas, <strong>Xenon [Xe]</strong>, and then add the remaining electrons in the 6th period.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": [
+      "Fluorine",
+      "Electronegativity",
+      "Chemical Nomenclature"
+    ],
+    "Question": {
+      "content": "In binary compounds of Group 17 elements with oxygen, why do we call them 'fluorides of oxygen' rather than 'oxides of fluorine'?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Because Fluorine is more electronegative than Oxygen."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Naming Rules</h4>\n <p>In chemistry naming, the <strong>more electronegative</strong> element gets the '-ide' ending. Since Fluorine is the 'king' of electronegativity (even stronger than Oxygen), Oxygen loses the '-oxide' title, and the compound is named an <strong>Oxygen Fluoride</strong> (e.g., \\(OF_2\\)).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": [
+      "Nitrogen Oxides",
+      "Chemical Compounds"
+    ],
+    "Question": {
+      "content": "What is the unstable acidic oxide formed by condensing NO and \\(NO_2\\) together?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dinitrogen Trioxide (\\(N_2O_3\\))"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Nitrogen Oxides</h4>\n <p>When you mix Nitric Oxide (NO) and Nitrogen Dioxide (\\(NO_2\\)) at very low temperatures, they combine to form a blue liquid/solid called <strong>\\(N_2O_3\\)</strong>. It is unstable at room temperature and splits back into the two gases.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": [
+      "Selenium",
+      "Allotropy",
+      "Chemistry"
+    ],
+    "Question": {
+      "content": "List the two allotropic forms in which Selenium exists.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Red Selenium (Amorphous/Monoclinic) and Gray Selenium (Metallic/Crystalline)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Selenium Allotropes</h4>\n <p>Selenium can change its structure like Lego blocks:</p>\n <ul>\n <li><strong>Red:</strong> A non-metallic form.</li>\n <li><strong>Gray:</strong> The more stable, metallic-looking form that conducts electricity better when light shines on it.</li>\n </ul>\n</div>"
+    }
+  },
+    {
+    "type": "heading",
+    "heading": "Section B"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1i",
+    "topic": [
+      "Chemical Bonding",
+      "Molecular Orbital Theory",
+      "Bond Order"
+    ],
+    "Question": {
+      "content": "Calculate the bond order of B₂ molecule",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Bond Order of B₂ Molecule</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Determine the Total Number of Electrons</strong><br>\n    Boron (B) has an atomic number of 5, so each boron atom has 5 electrons.<br>\n    For B₂ molecule: Total electrons = 5 + 5 = <strong>10 electrons</strong>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Write the Molecular Orbital Configuration</strong><br>\n    For B₂ (10 electrons), using the correct order for elements before N₂:<br>\n    \\( \\sigma_{1s}^2 \\, \\sigma_{1s}^{*2} \\, \\sigma_{2s}^2 \\, \\sigma_{2s}^{*2} \\, \\pi_{2p_x}^1 \\, \\pi_{2p_y}^1 \\)\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Count Bonding and Antibonding Electrons</strong><br>\n    <strong>Bonding electrons:</strong><br>\n    \\( \\sigma_{1s}^2 \\) = 2<br>\n    \\( \\sigma_{2s}^2 \\) = 2<br>\n    \\( \\pi_{2p_x}^1 + \\pi_{2p_y}^1 \\) = 2<br>\n    <strong>Total bonding = 6 electrons</strong>\n    <br><br>\n    <strong>Antibonding electrons:</strong><br>\n    \\( \\sigma_{1s}^{*2} \\) = 2<br>\n    \\( \\sigma_{2s}^{*2} \\) = 2<br>\n    <strong>Total antibonding = 4 electrons</strong>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 4: Calculate Bond Order</strong><br>\n    Bond Order = \\( \\frac{\\text{Bonding electrons} - \\text{Antibonding electrons}}{2} \\)<br><br>\n    Bond Order = \\( \\frac{6 - 4}{2} = \\frac{2}{2} = 1 \\)\n  </div>\n  \n  <div style='padding: 10px; background: var(--greenBgL); border-radius: 5px; margin-top: 15px;'>\n    <strong style='color: var(--strongColor);'>Answer: Bond Order of B₂ = 1</strong><br>\n    This means B₂ has a single bond and is paramagnetic (has unpaired electrons).\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 1ii",
+    "topic": [
+      "Periodic Table",
+      "Group 2 Elements",
+      "Alkaline Earth Metals",
+      "Electronic Configuration"
+    ],
+    "Question": {
+      "content": "Write the block, group and period of Calcium and Scandium",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Calcium: s-block, Group 2, Period 4\nScandium: d-block, Group 3, Period 4"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Block, Group, and Period Classification</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Understanding the Basics</strong><br>\n    - <strong>Period:</strong> The horizontal row (determined by the highest principal quantum number)<br>\n    - <strong>Group:</strong> The vertical column (determined by valence electrons)<br>\n    - <strong>Block:</strong> Determined by the last electron entering the orbital (s, p, d, or f)\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Calcium (Ca) - Atomic Number 20</strong><br>\n    Electronic configuration: \\( 1s^2 \\, 2s^2 \\, 2p^6 \\, 3s^2 \\, 3p^6 \\, 4s^2 \\)<br><br>\n    - <strong>Block:</strong> s-block (last electron enters 4s orbital)<br>\n    - <strong>Group:</strong> Group 2 (2 valence electrons in s orbital)<br>\n    - <strong>Period:</strong> Period 4 (highest principal quantum number is 4)\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Scandium (Sc) - Atomic Number 21</strong><br>\n    Electronic configuration: \\( 1s^2 \\, 2s^2 \\, 2p^6 \\, 3s^2 \\, 3p^6 \\, 3d^1 \\, 4s^2 \\)<br><br>\n    - <strong>Block:</strong> d-block (last electron enters 3d orbital)<br>\n    - <strong>Group:</strong> Group 3 (first transition element)<br>\n    - <strong>Period:</strong> Period 4 (highest principal quantum number is 4)\n  </div>\n  \n  <div style='padding: 10px; background: var(--greenBgL); border-radius: 5px; margin-top: 15px;'>\n    <strong style='color: var(--strongColor);'>Summary Table:</strong><br>\n    <table style='width: 100%; margin-top: 10px; border-collapse: collapse;'>\n      <tr style='background: var(--transparentBlack);'>\n        <th style='padding: 8px; text-align: left;'>Element</th>\n        <th style='padding: 8px; text-align: left;'>Block</th>\n        <th style='padding: 8px; text-align: left;'>Group</th>\n        <th style='padding: 8px; text-align: left;'>Period</th>\n      </tr>\n      <tr>\n        <td style='padding: 8px;'>Calcium (Ca)</td>\n        <td style='padding: 8px;'>s-block</td>\n        <td style='padding: 8px;'>Group 2</td>\n        <td style='padding: 8px;'>Period 4</td>\n      </tr>\n      <tr>\n        <td style='padding: 8px;'>Scandium (Sc)</td>\n        <td style='padding: 8px;'>d-block</td>\n        <td style='padding: 8px;'>Group 3</td>\n        <td style='padding: 8px;'>Period 4</td>\n      </tr>\n    </table>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Ionization Energy",
+      "Periodic Trends",
+      "Alkali Metals",
+      "Group 1 Elements"
+    ],
+    "Question": {
+      "content": "Clearly state the differences between the first and second ionization energies of alkali metals",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The second ionization energy of alkali metals is significantly higher than the first ionization energy because:\n1. After removing the first electron, a stable noble gas configuration is achieved\n2. The remaining ion has a complete octet with higher effective nuclear charge\n3. Greater energy is required to remove an electron from a stable, positively charged ion"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ionization Energies of Alkali Metals</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Understanding Ionization Energy</strong><br>\n    <strong>First Ionization Energy (IE₁):</strong> Energy needed to remove the first (outermost) electron<br>\n    <strong>Second Ionization Energy (IE₂):</strong> Energy needed to remove a second electron from the resulting ion\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Example with Sodium (Na)</strong><br>\n    Sodium configuration: \\( 1s^2 \\, 2s^2 \\, 2p^6 \\, 3s^1 \\)<br><br>\n    <strong>First Ionization:</strong><br>\n    Na → Na⁺ + e⁻ &nbsp;&nbsp; (IE₁ ≈ 496 kJ/mol)<br>\n    Na⁺ configuration: \\( 1s^2 \\, 2s^2 \\, 2p^6 \\) (stable noble gas structure)<br><br>\n    <strong>Second Ionization:</strong><br>\n    Na⁺ → Na²⁺ + e⁻ &nbsp;&nbsp; (IE₂ ≈ 4562 kJ/mol)<br>\n    Na²⁺ configuration: \\( 1s^2 \\, 2s^2 \\, 2p^5 \\) (unstable, incomplete octet)\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key Differences</strong><br>\n    <strong>1. Magnitude:</strong><br>\n    IE₂ >> IE₁ (Second ionization energy is about 9-10 times higher)<br><br>\n    \n    <strong>2. Electronic Configuration:</strong><br>\n    - First ionization removes the single valence electron (easy)<br>\n    - Second ionization removes from a stable noble gas configuration (very difficult)<br><br>\n    \n    <strong>3. Effective Nuclear Charge:</strong><br>\n    - After losing one electron, the positive charge increases<br>\n    - Remaining electrons are held more tightly by the nucleus<br>\n    - Less shielding effect in the smaller ion<br><br>\n    \n    <strong>4. Stability:</strong><br>\n    - M⁺ ion has stable noble gas configuration (very stable)<br>\n    - M²⁺ ion has incomplete octet (unstable, rarely forms)\n  </div>\n  \n  <div style='padding: 10px; background: var(--greenBgL); border-radius: 5px; margin-top: 15px;'>\n    <strong style='color: var(--strongColor);'>Important Point:</strong><br>\n    The huge difference in ionization energies explains why alkali metals form only +1 ions in compounds (like Na⁺, K⁺, Li⁺) and never +2 ions. The second ionization energy is prohibitively high!\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2iii",
+    "topic": [
+      "Atomic Structure",
+      "Atomic Radius",
+      "Periodic Trends",
+      "Group 1 Elements"
+    ],
+    "Question": {
+      "content": "Account for the significant decrease in size of group 1 metals when the outer most electron is removed",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "When the outermost electron is removed from group 1 metals:\n1. An entire electron shell is lost, reducing the atomic radius\n2. The electron-to-proton ratio decreases, increasing effective nuclear charge\n3. Remaining electrons are pulled closer to the nucleus\n4. The resulting ion has a stable noble gas configuration with fewer electron shells"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Size Decrease in Group 1 Metal Ions</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Example: Sodium Atom vs Sodium Ion</strong><br>\n    <strong>Sodium atom (Na):</strong><br>\n    - Electronic configuration: \\( 1s^2 \\, 2s^2 \\, 2p^6 \\, 3s^1 \\)<br>\n    - Has 3 electron shells<br>\n    - Atomic radius ≈ 186 pm<br><br>\n    \n    <strong>Sodium ion (Na⁺):</strong><br>\n    - Electronic configuration: \\( 1s^2 \\, 2s^2 \\, 2p^6 \\)<br>\n    - Has 2 electron shells<br>\n    - Ionic radius ≈ 102 pm<br>\n    - <strong>Size reduction: About 45% smaller!</strong>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Reason 1: Loss of an Entire Electron Shell</strong><br>\n    - Group 1 metals have one electron in their outermost shell<br>\n    - When this electron is removed, the entire outer shell disappears<br>\n    - The ion now has one fewer shell than the atom<br>\n    - Example: Na (3 shells) → Na⁺ (2 shells)\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Reason 2: Increased Effective Nuclear Charge</strong><br>\n    <strong>In the neutral atom:</strong><br>\n    - 11 protons (+) attract 11 electrons (-)<br>\n    - Proton-to-electron ratio = 11:11<br><br>\n    \n    <strong>In the positive ion:</strong><br>\n    - Still 11 protons (+) but now only 10 electrons (-)<br>\n    - Proton-to-electron ratio = 11:10<br>\n    - Each remaining electron feels a stronger pull from the nucleus\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Reason 3: Reduced Electron-Electron Repulsion</strong><br>\n    - With fewer electrons, there's less repulsion between them<br>\n    - Electrons can be held closer together<br>\n    - The electron cloud contracts\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Reason 4: Stable Noble Gas Configuration</strong><br>\n    - The resulting ion has a complete outer shell (octet)<br>\n    - Noble gas configurations are very compact and stable<br>\n    - Example: Na⁺ has the same configuration as Neon\n  </div>\n  \n  <div style='padding: 10px; background: var(--greenBgL); border-radius: 5px; margin-top: 15px;'>\n    <strong style='color: var(--strongColor);'>Summary:</strong><br>\n    The cation is much smaller than the atom because:<br>\n    ✓ One less electron shell<br>\n    ✓ Same nuclear charge pulling fewer electrons<br>\n    ✓ Less electron-electron repulsion<br>\n    ✓ More compact noble gas configuration\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Atomic Structure",
+      "Quantum Numbers",
+      "Balmer Series",
+      "Spectroscopy",
+      "Electromagnetic Radiation"
+    ],
+    "Question": {
+      "content": "Find the wavelength in nanometers of the line in the Balmer series that results from the transition of n = 2 to n = 3. (1 J = 1312 kJ/mol or 2.179 × 10⁻¹⁸ J)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "656.3 nm"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Calculating Wavelength in Balmer Series</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Understanding the Balmer Series</strong><br>\n    The Balmer series involves transitions where electrons fall to the n = 2 energy level from higher levels (n = 3, 4, 5...). These transitions produce visible light.\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Identify Given Information</strong><br>\n    - Initial level: \\( n_i = 3 \\)<br>\n    - Final level: \\( n_f = 2 \\)<br>\n    - Rydberg constant (in energy): \\( 2.179 \\times 10^{-18} \\) J<br>\n    - Speed of light: \\( c = 3.00 \\times 10^8 \\) m/s<br>\n    - Planck's constant: \\( h = 6.626 \\times 10^{-34} \\) J·s\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Calculate Energy Change (ΔE)</strong><br>\n    Using the Rydberg formula for energy:<br>\n    \\( \\Delta E = -R_H \\left( \\frac{1}{n_f^2} - \\frac{1}{n_i^2} \\right) \\)<br><br>\n    \n    \\( \\Delta E = -2.179 \\times 10^{-18} \\left( \\frac{1}{2^2} - \\frac{1}{3^2} \\right) \\)<br><br>\n    \n    \\( \\Delta E = -2.179 \\times 10^{-18} \\left( \\frac{1}{4} - \\frac{1}{9} \\right) \\)<br><br>\n    \n    \\( \\Delta E = -2.179 \\times 10^{-18} \\left( 0.25 - 0.111 \\right) \\)<br><br>\n    \n    \\( \\Delta E = -2.179 \\times 10^{-18} \\times 0.139 \\)<br><br>\n    \n    \\( \\Delta E = -3.03 \\times 10^{-19} \\) J<br><br>\n    \n    The negative sign indicates energy is released (photon emitted).<br>\n    <strong>Energy of emitted photon:</strong> \\( E = 3.03 \\times 10^{-19} \\) J\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Calculate Wavelength (λ)</strong><br>\n    Using the relationship: \\( E = \\frac{hc}{\\lambda} \\)<br><br>\n    \n    Rearranging for wavelength:<br>\n    \\( \\lambda = \\frac{hc}{E} \\)<br><br>\n    \n    \\( \\lambda = \\frac{(6.626 \\times 10^{-34})(3.00 \\times 10^8)}{3.03 \\times 10^{-19}} \\)<br><br>\n    \n    \\( \\lambda = \\frac{1.988 \\times 10^{-25}}{3.03 \\times 10^{-19}} \\)<br><br>\n    \n    \\( \\lambda = 6.56 \\times 10^{-7} \\) m\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 4: Convert to Nanometers</strong><br>\n    \\( \\lambda = 6.56 \\times 10^{-7} \\) m × \\( \\frac{10^9 \\text{ nm}}{1 \\text{ m}} \\)<br><br>\n    \n    \\( \\lambda = 656 \\) nm (or 656.3 nm with more precision)\n  </div>\n  \n  <div style='padding: 10px; background: var(--greenBgL); border-radius: 5px; margin-top: 15px;'>\n    <strong style='color: var(--strongColor);'>Answer: λ = 656.3 nm</strong><br>\n    This is the famous <strong>H-alpha line</strong> (red light) in the Balmer series, one of the most prominent lines in hydrogen's visible spectrum!\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4i",
+    "topic": [
+      "Carbon Allotropes",
+      "Diamond",
+      "Graphite",
+      "Materials Science",
+      "Physical Properties"
+    ],
+    "Question": {
+      "content": "Outline three major differences between diamond and graphite",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1. Structure: Diamond has tetrahedral structure (sp³), graphite has layered hexagonal structure (sp²)\n2. Hardness: Diamond is the hardest natural material, graphite is soft and slippery\n3. Electrical Conductivity: Diamond is an insulator, graphite conducts electricity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Major Differences Between Diamond and Graphite</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Important Background</strong><br>\n    Both diamond and graphite are allotropes of carbon - they're made of the same element but have completely different structures and properties!\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Difference 1: Crystal Structure and Bonding</strong><br>\n    \n    <strong>Diamond:</strong><br>\n    - Each carbon atom is bonded to 4 other carbon atoms<br>\n    - Forms a giant 3D tetrahedral network<br>\n    - All bonds are strong covalent bonds (sp³ hybridization)<br>\n    - No free electrons available<br>\n    - Very rigid, compact structure<br><br>\n    \n    <strong>Graphite:</strong><br>\n    - Each carbon atom is bonded to 3 other carbon atoms<br>\n    - Forms flat hexagonal layers (like honeycomb)<br>\n    - sp² hybridization with one free electron per atom<br>\n    - Layers are held together by weak van der Waals forces<br>\n    - Layers can slide over each other easily\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Difference 2: Physical Properties - Hardness</strong><br>\n    \n    <strong>Diamond:</strong><br>\n    - Hardest known natural substance (10 on Mohs scale)<br>\n    - Cannot be scratched by any other natural material<br>\n    - Used in cutting tools and drill bits<br>\n    - Reason: Strong covalent bonds in all directions<br><br>\n    \n    <strong>Graphite:</strong><br>\n    - Very soft and slippery (1-2 on Mohs scale)<br>\n    - Can be easily scratched and flakes off in layers<br>\n    - Used as a lubricant and in pencils (\"lead\")<br>\n    - Reason: Weak forces between layers allow them to slide\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Difference 3: Electrical Conductivity</strong><br>\n    \n    <strong>Diamond:</strong><br>\n    - Does NOT conduct electricity<br>\n    - Acts as an electrical insulator<br>\n    - All 4 valence electrons are used in bonding<br>\n    - No free electrons to carry electric current<br><br>\n    \n    <strong>Graphite:</strong><br>\n    - DOES conduct electricity<br>\n    - Good conductor along the layers<br>\n    - Each carbon has one delocalized electron<br>\n    - Free electrons can move through the structure<br>\n    - Used in electrodes and batteries\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Additional Differences (Bonus)</strong><br>\n    \n    <strong>Appearance:</strong><br>\n    - Diamond: Transparent, colorless, brilliant<br>\n    - Graphite: Black, opaque, dull/metallic luster<br><br>\n    \n    <strong>Density:</strong><br>\n    - Diamond: 3.5 g/cm³ (denser due to compact structure)<br>\n    - Graphite: 2.3 g/cm³ (less dense, more space between layers)<br><br>\n    \n    <strong>Uses:</strong><br>\n    - Diamond: Jewelry, cutting tools, abrasives<br>\n    - Graphite: Pencils, lubricants, electrodes, batteries\n  </div>\n  \n  <div style='padding: 10px; background: var(--greenBgL); border-radius: 5px; margin-top: 15px;'>\n    <strong style='color: var(--strongColor);'>Key Takeaway:</strong><br>\n    The different arrangements of carbon atoms give diamond and graphite completely opposite properties - one is super hard and transparent, the other is soft and black. This shows how important structure is in determining material properties!\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4ii",
+    "topic": [
+      "Periodic Table",
+      "Group 13 Elements",
+      "Metallic Character",
+      "Chemical Properties"
+    ],
+    "Question": {
+      "content": "Using typical examples, show the metallic and non-metallic character of the 1st member of group 13 element",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Boron (B), the first member of group 13, shows both metallic and non-metallic character:\n\nNon-metallic character:\n- Forms covalent compounds (B₂O₃, BF₃)\n- Acts as a semiconductor\n- Forms molecular hydrides (B₂H₆)\n\nMetallic character:\n- Forms alloys with metals\n- Exhibits some metallic luster in crystalline form\n- Can donate electrons in certain reactions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Metallic and Non-Metallic Character of Boron</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Introduction to Boron</strong><br>\n    Boron (B) is the first element in Group 13 (IIIA) with atomic number 5.<br>\n    Electronic configuration: \\( 1s^2 \\, 2s^2 \\, 2p^1 \\)<br><br>\n    Boron is a <strong>metalloid</strong> (semi-metal), showing properties of BOTH metals and non-metals. It sits on the \"staircase\" line in the periodic table that separates metals from non-metals.\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>NON-METALLIC Character of Boron (Predominant)</strong><br>\n    \n    <strong>Example 1: Forms Covalent Compounds</strong><br>\n    Boron forms covalent bonds rather than ionic bonds:<br>\n    - Boron trifluoride: \\( BF_3 \\) (shares electrons with fluorine)<br>\n    - Boron oxide: \\( B_2O_3 \\) (covalent network structure)<br>\n    - Boric acid: \\( H_3BO_3 \\) or \\( B(OH)_3 \\)<br><br>\n    \n    <strong>Example 2: Poor Electrical Conductor</strong><br>\n    - Unlike metals, pure boron does NOT conduct electricity well at room temperature<br>\n    - It's a semiconductor (conducts only at high temperatures)<br>\n    - Behaves more like silicon than aluminum<br><br>\n    \n    <strong>Example 3: High Ionization Energy</strong><br>\n    - Very difficult to remove electrons from boron<br>\n    - Doesn't form B³⁺ ions easily<br>\n    - Prefers to share electrons (covalent bonding)<br><br>\n    \n    <strong>Example 4: Forms Molecular Hydrides</strong><br>\n    - Forms covalent hydrides like diborane: \\( B_2H_6 \\)<br>\n    - These are molecular compounds, not ionic hydrides<br>\n    - They have unusual \"banana bonds\" (3-center-2-electron bonds)\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>METALLIC Character of Boron (Limited)</strong><br>\n    \n    <strong>Example 1: Physical Appearance</strong><br>\n    - Crystalline boron has a dark, metallic luster<br>\n    - Appears shiny and solid like metals<br>\n    - However, it's extremely hard (unlike most metals)<br><br>\n    \n    <strong>Example 2: Forms Alloys</strong><br>\n    - Can form alloys with metals (though rarely)<br>\n    - Example: Borides (compounds with metals)<br>\n    - Ferroboron: Iron-boron alloy used in steel production<br><br>\n    \n    <strong>Example 3: Semiconducting Properties</strong><br>\n    - At very high temperatures, boron can conduct electricity<br>\n    - Shows some metallic behavior under extreme conditions<br>\n    - Used in semiconductor industry (like silicon)<br><br>\n    \n    <strong>Example 4: Can Act as Electron Donor</strong><br>\n    - In some reactions, boron can donate electrons<br>\n    - Forms coordinate bonds where it accepts electron pairs<br>\n    - Example: \\( BF_3 + F^- \\rightarrow BF_4^- \\) (acts as Lewis acid)\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Comparison with Other Group 13 Elements</strong><br>\n    Going down Group 13: B → Al → Ga → In → Tl<br>\n    - Boron is the most non-metallic<br>\n    - Aluminum is weakly metallic<br>\n    - Gallium, Indium, Thallium are clearly metallic<br>\n    - Metallic character increases down the group\n  </div>\n  \n  <div style='padding: 10px; background: var(--greenBgL); border-radius: 5px; margin-top: 15px;'>\n    <strong style='color: var(--strongColor);'>Summary:</strong><br>\n    Boron is predominantly NON-METALLIC because it:<br>\n    ✓ Forms covalent compounds (not ionic)<br>\n    ✓ Poor conductor at room temperature<br>\n    ✓ High ionization energy<br>\n    ✓ Forms molecular hydrides<br><br>\n    \n    But shows LIMITED metallic character through:<br>\n    ✓ Metallic luster<br>\n    ✓ Can form alloys<br>\n    ✓ Semiconducting at high temperatures<br>\n    ✓ Can participate in electron-sharing reactions<br><br>\n    \n    <strong>Overall: Boron is a METALLOID - it bridges metals and non-metals!</strong>\n  </div>\n</div>"
+    }
+  }]
+  
